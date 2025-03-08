@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Registration from './components/Form/Registration';
 import LoginPage from './components/LoginPage';
 import React, { useEffect, useState } from 'react';
@@ -37,13 +37,12 @@ function App() {
   const isStatsActive = useSelector((state) => state.userInfo.activeStats);
   const isDemoStatsActive = useSelector((state) => state.userInfo.activeDemoStats);
   const showLog = useSelector((state) => state.userInfo.showLog);
-  const navigate = useNavigate();
+  
 
   useEffect(() => {
 
     if (!userId) return;
 
-    console.log(userInfo);
 
     const userRef = ref(realtimeDb, "/users/" + userId);
     const listener = onValue(userRef, (snapshot) => {
@@ -57,13 +56,9 @@ function App() {
   }, [userId, dispatch])
 
 
-
-
   function getElement(path) {
 
     switch (path) {
-      case "/":
-        return <a href='#' onClick={() => { navigate(-1) }}> Invalid link. Go to the previous page.</a>
       case "/scheduler":
         return <Scheduler updateSession={updateSession} setUpdateSession={setUpdateSession} />
       case "/login":
@@ -98,8 +93,8 @@ function App() {
         setUserId={setUserId}
       />}
       <Routes>
-        <Route path="/" element={getElement("/")} />
-        <Route path="/login" element={(userId && Object.keys(userInfo || {}).length > 0) ? getElement("/overview") : getElement("/login")} />
+        <Route path="/" element={(userId && Object.keys(userInfo || {}).length > 0) ? getElement("/participants")  : <LoginPage setUserId={setUserId} />} />
+        <Route path="/login" element={(userId && Object.keys(userInfo || {}).length > 0) ? <Navigate to="/participants" replace />: getElement("/login")} />
         <Route path="/registration" element={getElement('/registration')} />
         <Route path='/scheduler' element={(userId && Object.keys(userInfo || {}).length > 0) && userInfo['role'] === 'admin' ? getElement("/scheduler") : getElement("/login")} />
         <Route path='/scheduler-external' element={(userId && Object.keys(userInfo || {}).length > 0) ? getElement("/scheduler-external") : getElement("/login")} />

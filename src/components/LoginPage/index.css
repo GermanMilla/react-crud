@@ -40,8 +40,6 @@
 #loginPage #resetButton {
     padding: .1em 1em;
     border: none;
-    background: rgba(75, 40, 109);
-    color: #fff;
     font-size: 1.2em;
     font-weight: bold;
     box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
@@ -51,11 +49,6 @@
 }
 
 #loginPage #resetButton {
-    background: #66CC00;
     border-radius: 3px;
 }
 
-#loginPage #loginButton:hover,
-#loginPage #resetButton:hover {
-    color: #ffffffda;
-}

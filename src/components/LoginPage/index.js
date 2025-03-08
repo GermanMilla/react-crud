@@ -3,7 +3,7 @@ import Swal from 'sweetalert2';
 import { signInWithEmailAndPassword, onAuthStateChanged, sendPasswordResetEmail, getAuth, setPersistence, browserSessionPersistence } from 'firebase/auth';
 import { auth } from '../../firebase/config';
 import md5 from 'md5';
-
+import Button from '@mui/material/Button';
 import './index.css';
 
 function LoginPage({ setUserId }) {
@@ -82,7 +82,7 @@ function LoginPage({ setUserId }) {
 
     return <div id="loginPage">
         {!hidden && <div id="loginContainer">
-            <h2>Blackburn</h2>
+            <h2>Login</h2>
             <form onSubmit={(e) => handleLogin(e)}>
                 <input
                     id="email"
@@ -102,8 +102,8 @@ function LoginPage({ setUserId }) {
                     required
                     placeholder="password"
                 />
-                <button id="loginButton" type="submit" className="log-in-button">Login</button>
-                <button id="resetButton" className="pw-reset-button" onClick={(e) => { e.preventDefault(); resetPassword(); }}>Reset password</button>
+                <Button variant="contained" size="small" id="loginButton" type="submit" className="log-in-button">Login</Button>
+                <Button variant="outlined" id="resetButton" className="pw-reset-button" onClick={(e) => { e.preventDefault(); resetPassword(); }}>Reset password</Button>
             </form>
         </div>}
     </div>
