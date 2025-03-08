@@ -1,0 +1,110 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100006",
+  "assets": [
+    {
+      "asset_basename": "t_100006-1.html",
+      "asset_md5": "07e7c9f0f75128489f98e0069feacb9d",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100006-1",
+          "author_id": "a_000017",
+          "message_subject": "Actalent career opportunities in Houston, TX Area.",
+          "message_body": "Hi Deletha,\n\n\n\n\nGood morning, hope you are doing well!\n\nWe are still hiring for this position today, kindly let me know what the best time would be to connect with you today\n\n \n\nBest,\n\n[personal_name]",
+          "timestamp": "2023-09-12T06:50:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100006-2.html",
+      "asset_md5": "45d63b89688df5d708d01f59950c9951",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100006-2",
+          "author_id": "a_000017",
+          "message_subject": "RE: Actalent career opportunities in Houston, TX Area.",
+          "message_body": "Sounds good!\n\n \n\nBest,\n\n[personal_name]",
+          "timestamp": "2023-09-12T06:56:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000013"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100006-3.html",
+      "asset_md5": "6f6559a6c6b6b2a632df6733a66d435f",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100006-3",
+          "author_id": "a_000013",
+          "message_subject": "Re: Actalent career opportunities in Houston, TX Area.",
+          "message_body": "Great!\n\n \n\n3:30pm would be a fine time to connect!",
+          "timestamp": "2023-09-12T06:53:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000017"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100006-4.html",
+      "asset_md5": "70f8540f1b28bf53d1b6db032e05e416",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100006-4",
+          "author_id": "a_000017",
+          "message_subject": "Actalent career opportunities in Houston, TX Area.",
+          "message_body": "Hi Deletha,\n\n\nMy name is Shivraj, and I work with [organization_name] as a recruiter. Your Specimen Processor experience intrigued me when I was reading over your résumé. I believe you could be a good fit for many Laboratory positions I am hiring for right now.\n\n\n• These possibilities involve some of our biggest clients in the Houston, Texas, region.\n\n• The positions provide opportunities for growth and competitive remuneration.\n\n\nTo understand more about your interests and to talk about these opportunities to see if I may be a resource for you, I would love to get in touch with you. By the end of today, phone me back at ([phone_number] or respond to this email to arrange a call.\n\n \n\nPlease [url] to set up a call with me if you'd like to.\n\n\nI'm interested in hearing from you.\n\n\nI am always pleased to assist if you know someone else who is looking for new work chances! Please don't hesitate to give my contact details to anyone who might find them useful.\n\n \n\n \n\nBest,\n\n[personal_name]",
+          "timestamp": "2023-09-08T11:10:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100006-5.html",
+      "asset_md5": "8e211bca1faad10436b8e304224eae0b",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100006-5",
+          "author_id": "a_000013",
+          "message_subject": "Re: Actalent career opportunities in Houston, TX Area.",
+          "message_body": "Hello Good Morning,\n\n \n\nI am reaching out to follow up with you regarding this position? Has this post been filled yet? I was still interested thank you",
+          "timestamp": "2023-09-12T05:01:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000017"
+          ]
+        }
+      }
+    }
+  ]
+}

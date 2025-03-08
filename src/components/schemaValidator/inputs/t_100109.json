@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100109",
+  "assets": [
+    {
+      "asset_basename": "t_100109-1.html",
+      "asset_md5": "377884926edd9df8b46cdd106ded24e0",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100109-1",
+          "author_id": "a_000066",
+          "message_subject": "[EXTERNAL] Jonathan Smith 9th grade",
+          "message_body": "Hi Mr. Bailey. I would appreciate if you could give me a call. I have a few important issues regarding my son that I would like to discuss with you.\n\n\nThank you,\n[personal_name]\n[phone_number]",
+          "timestamp": "2019-03-25T17:09:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100109-2.html",
+      "asset_md5": "d8425867c6caa48e64552bd5c75169f1",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100109-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: [EXTERNAL] [personal_name] 9th grade",
+          "message_body": "Ok. Thank you very much!",
+          "timestamp": "2019-03-25T17:32:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000095"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100109-3.html",
+      "asset_md5": "c501852adb4951d9bde3d2e8f997286d",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100109-3",
+          "author_id": "a_000095",
+          "message_subject": "[EXTERNAL] Jonathan Smith 9th grade",
+          "message_body": "I’m at our Soccer game in Mobile. I’ll call you in between games.",
+          "timestamp": "2019-03-25T17:12:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    }
+  ]
+}

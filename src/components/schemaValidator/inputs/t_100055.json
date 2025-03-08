@@ -1,0 +1,92 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100055",
+  "assets": [
+    {
+      "asset_basename": "t_100055-1.html",
+      "asset_md5": "3152cc423fc567b48c2bb09e41596f61",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100055-1",
+          "author_id": "a_000073",
+          "message_subject": "Strayer University - FAST",
+          "message_body": "Thank you for contacting the Financial Aid Support Team.\n\nWe will be glad to assist you with any questions regarding your financial aid. Please respond with your name and student ID so that we can retrieve your account information. Additionally, please include any question(s) that you have regarding financial aid, so that we can immediately assist.\n\nIf you would like to receive assistance over the phone regarding your financial aid, please feel free to contact our Financial Aid Support Team at [phone_number]. Monday-Thursday 9am-8pm, Friday 9am-5:30pm, and Saturday 9am-3pm.\n\nIf you have any questions regarding your tuition and fees, payment plans, and/or registration please contact your Success Coach. If your Success Coach is unavailable, please call [phone_number] to speak to the next available coach. \n\n \n\n\nSincerely,\n\n\n\n\nFinancial Aid Support Team",
+          "timestamp": "2024-01-06T08:17:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".edu"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100055-2.html",
+      "asset_md5": "fe24ffb8a231154720caa3e25f056501",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100055-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: [organization_name] - FAST",
+          "message_body": "Student ID\n[personal_id]\n\n\nName\n[personal_name]",
+          "timestamp": "2024-01-06T13:26:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000073"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100055-3.html",
+      "asset_md5": "fb63cb7d812b77e421c0ec44f6bc6067",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100055-3",
+          "author_id": "a_000073",
+          "message_subject": "Re: [organization_name] - FAST",
+          "message_body": "Hello Brandie,\n\n\nThank you for contacting the Financial Aid Support Team. Due to the error message, you are receiving, an Award Adjustment Request Form is required to confirm your borrowing option. \n\n\nI have sent this to you via DocuSign to complete electronically. If you wish to receive the maximum borrowing, please select the maximum eligibility box and everything else can remain blank. Once completed, I will upload it to your account, and it will be reviewed in 1-2 business days.\n\n\nIf you need further assistance or guidance in completing the Award Adjustment Request Form, please contact our Financial Aid Support Team at 1-877-242-4430. Monday-Thursday 9am-8pm, Friday 9am-5:30pm, and Saturday 9am-3pm.\n\n\nThank you and have a great day\n\n \n\n\nSincerely,",
+          "timestamp": "2024-01-08T17:17:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".edu",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100055-4.html",
+      "asset_md5": "c2053ab24699a5c225bbbf4f16abe1fa",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100055-4",
+          "author_id": "a_000066",
+          "message_subject": "Borrowing plan",
+          "message_body": "Hi.  I am emailing because I need to confirm my borrowing plan in order to receive my financial aid.  I have tried several different times to do so but it will not allow me to. It keeps saying \"Cannot update when duplicate funds on same loan period.\" \n\n\nI am not sure what I am suppose to do.  I am just clicking the accept this plan option like I have every time.",
+          "timestamp": "2024-01-05T18:19:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000073"
+          ]
+        }
+      }
+    }
+  ]
+}

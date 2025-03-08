@@ -1,0 +1,158 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100012",
+  "assets": [
+    {
+      "asset_basename": "t_100012-1.html",
+      "asset_md5": "2605b9aa9e2f7f87f3e8bfaccc7aece8",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-1",
+          "author_id": "a_000019",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "Hi Deletha,\n\n\nYour insurance has been verified and the 10 EAP codes have been updated in the system. Please remember that the card on file must keep $125 on it at all times in case of incidental charges. If you agree, when would be the best time of day for a session?\n\n\nThank you,",
+          "timestamp": "2023-01-22T20:51:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-2.html",
+      "asset_md5": "e0f13f0527ffb128813f7ad983a94a2f",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-2",
+          "author_id": "a_000013",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "Okay, now the time Im a little unsure of. Are 2 30 min sessions a week an option? i work mon-fri 8a-4:30 i usually go on lunch at 12",
+          "timestamp": "2023-01-22T21:39:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-3.html",
+      "asset_md5": "7b950483ee70b21a58eef0ff1acd7d61",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-3",
+          "author_id": "a_000019",
+          "message_subject": "Re: EAP AUTHORIZATION FORM",
+          "message_body": "I only work Friday mornings. So 12 could work on some days and it would just have to be for when you're available.  12 is a popular time. What do you think?",
+          "timestamp": "2023-01-23T05:09:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000013"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-4.html",
+      "asset_md5": "5d96d55b67108cfd18a490c7a80190eb",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-4",
+          "author_id": "a_000019",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "The sessions are 45 minutes long. Our earliest appointment is for 8am and the latest appointment is 5pm.",
+          "timestamp": "2023-01-22T22:12:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-5.html",
+      "asset_md5": "4e825e3bca874a1f3ba47e969d4b4ad3",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-5",
+          "author_id": "a_000013",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "Okay I can only do fridays at 5pm",
+          "timestamp": "2023-01-22T22:46:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-6.html",
+      "asset_md5": "892747ba0b54dcda91f295291b7cad12",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-6",
+          "author_id": "a_000019",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "Hi Deletha,\n\n\nIt would be my pleasure to work with you again. Unfortunately, I do not remember a conversation from last August. (which is when we last spoke) Usually when things like what you describe happen I immediately record the facts into the system so as not to rely solely upon my memory. I am sorry to hear that your mother was under the weather. (per my assistant)\n\n\nThese are the notes I put into the system:\nComments\nClient was a no show no call. Called the client and left a message 8 minutes into the appointment time.\n\n\nPart of the policy is that each client is to keep [financial_data] on their card at all times in the event of an emergency. We can meet half way and I can charge you half as a courtesy, but it is expected that all clients will keep [financial_data] plus [financial_data] for the credit card processing fee available at all times. Is this something you would be interested in?\n\n\nThanks,",
+          "timestamp": "2023-01-16T15:02:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-7.html",
+      "asset_md5": "c173f75a247bcc050bbacf95737d0716",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-7",
+          "author_id": "a_000013",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "Yes ma’am …my apologies for missing your call Im at work myself but yes I would definitely be will  to do half and I greatly appreciate it thank you.\nLooking forward to talking with you again\n\n\n-Deletha",
+          "timestamp": "2023-01-17T08:13:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100012-8.html",
+      "asset_md5": "dc9fe88d5df7d67e0cbc40f146232639",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100012-8",
+          "author_id": "a_000019",
+          "message_subject": "EAP AUTHORIZATION FORM",
+          "message_body": "No worries.  I'll adjust it in the system and send you the updated forms to complete.  After you complete the forms and update your card you may request an appointment.  If you have any questions please let me know.",
+          "timestamp": "2023-01-17T08:52:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-updates-notifications",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

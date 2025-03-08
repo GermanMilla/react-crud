@@ -1,0 +1,50 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100114",
+  "assets": [
+    {
+      "asset_basename": "t_100114-1.html",
+      "asset_md5": "b8bbc5b508e0182a5fca73fe5d8da1b9",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100114-1",
+          "author_id": "a_000097",
+          "message_subject": "Re: Robert and [personal_name]",
+          "message_body": "Hi Chad, I am sorry to hear you are sick.\n\n\nYes, Monday works for me; and yes, that is my phone number.\n\n\n\nI hope you get better soon.\n\n\nBest,\nRobert",
+          "timestamp": "2024-01-05T09:19:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000100"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100114-2.html",
+      "asset_md5": "be730a0639f8d272c69758c41f04a72b",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100114-2",
+          "author_id": "a_000100",
+          "message_subject": "Re: Robert and [personal_name]",
+          "message_body": "Hi Robert – Apologies, I am sick and need to move this meeting. Does same time Monday work?\n\nWhat is the best phone number to reach you at?: [phone_number]\n\n\nNeed to make changes to this event?\nCancel:[url]\nReschedule: [url]",
+          "timestamp": "2024-01-05T08:25:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

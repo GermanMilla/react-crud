@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100112",
+  "assets": [
+    {
+      "asset_basename": "t_100112-1.html",
+      "asset_md5": "257813dc346671106e18ac59b0b93b1e",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100112-1",
+          "author_id": "a_000096",
+          "message_subject": "kalialab data",
+          "message_body": "Hi Robert,\n\n\nI built a Pivot with Power Pivot in Excel (on Windows). \nCan you take a look please? The current filters show pretty much the total revenues per month we are looking at. This should help you to compare data.\n\n\nBest regards\nMax\nᐧ",
+          "timestamp": "2023-09-22T13:47:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".de"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100112-2.html",
+      "asset_md5": "fc4a821071a5cfd8a397fe5a0eaabf30",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100112-2",
+          "author_id": "a_000096",
+          "message_subject": "kalialab data",
+          "message_body": "Hi Robert,\n\n\nattached you find a different sorting.\n\n\nProblem is treatment = Behandlung. There are multiple treatments within one visit. We currently only have the revenue data per visit. Thus when you aggregate all treatments, you will get too high revenue data. Does this make sense?\n\n\nCheers\nMax",
+          "timestamp": "2023-09-25T14:19:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".de",
+          "to": [
+            "a_000097"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100112-3.html",
+      "asset_md5": "932a42740f672e95ab3f8c18f777401e",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100112-3",
+          "author_id": "a_000097",
+          "message_subject": "kalialab data",
+          "message_body": "Hi Max,\n\n\nThank you for providing me with this. I will examine it and use it to evaluate the data on [organization_name].\n\n\nBest regards,\nRobert",
+          "timestamp": "2023-09-22T20:42:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

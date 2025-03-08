@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100120",
+  "assets": [
+    {
+      "asset_basename": "t_100120-1.html",
+      "asset_md5": "9e7987827e0c480e0c26f15b69030bf5",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100120-1",
+          "author_id": "a_000097",
+          "message_subject": "Thank You for the Interview Opportunity and documents",
+          "message_body": "Dear Brett and Richard,\n\n\nThank you for the opportunity to interview for the Business Intelligence Analyst at [organization_name]. It was a pleasure speaking with you and learning more about the position and the company.\n\nI am excited about possibly joining the team and contributing to [organization_name]' continued success. My background and experience as a Data Analyst and BI Analyst align well with the role's needs and will add value to the team.\n\nAs mentioned, I am attaching a few documents for you to review and learn more about my skills and qualifications. These include examples of projects completed, certificates, and courses. You can also check my profile at [organization_name] for more projects completed and clients' feedback ([url]). \n\nPlease get in touch with me if you need more information or clarification regarding my candidacy.\n\nThank you again for your time and consideration. I am excited to work together.\n\nWarm regards,\n\n\n[personal_name]",
+          "timestamp": "2024-03-20T17:39:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100120-2.html",
+      "asset_md5": "6434aeac190affdc9ea47215b6810db2",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100120-2",
+          "author_id": "a_000097",
+          "message_subject": "Re: Thank You for the Interview Opportunity and documents",
+          "message_body": "Hello Maggie,\n\n\nIt is nice to hear from you and with such good news. I am waiting on the assessment and will complete it right away.\n\n\nThank you,\n\n\t\n\n[personal_name]",
+          "timestamp": "2024-03-21T13:02:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000105"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100120-3.html",
+      "asset_md5": "feacab6ff196bd2fde7ecfa98c4b8ea9",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100120-3",
+          "author_id": "a_000105",
+          "message_subject": "Thank You for the Interview Opportunity and documents",
+          "message_body": "Hello Again Robert!\n\n\nWe would like to move to the next step with you.  Brett or Richard will be sending you an assessment.  Please complete it as soon as possible.  I will reach back out to you after the assessment is reviewed .to let you know both how you did and what our next steps might be.\n\n\nThanks and good luck on the assessment!",
+          "timestamp": "2024-03-21T12:03:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

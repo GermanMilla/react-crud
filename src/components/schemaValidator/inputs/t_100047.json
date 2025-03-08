@@ -1,0 +1,53 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100047",
+  "assets": [
+    {
+      "asset_basename": "t_100047-1.html",
+      "asset_md5": "9e5ed967bc83e60e49e57f922896a273",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100047-1",
+          "author_id": "a_000068",
+          "message_subject": "Re: Week 2",
+          "message_body": "I just checked the class.   Refer to my last email as to what I can see in the class.\n\n\nIf you can, resubmit those assignments.",
+          "timestamp": "2024-02-21T22:14:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".edu",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100047-2.html",
+      "asset_md5": "005ca62374a1c0c0543468f886dcec44",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100047-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: Week 2",
+          "message_body": "Hi.  I have included screenshots of where I tried to post my discussions several times and they were showing a post but not all of the post.  I am also including the screenshots of the post when I finally got it to show all of the post.  I am currently on my way home.  When I get there I will look for the week three discussion and the week six assignment.  Thank you for bringing this to my attention.  I appreciate it and apologize for the inconvenience.",
+          "timestamp": "2024-02-21T17:45:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000068"
+          ]
+        }
+      }
+    }
+  ]
+}

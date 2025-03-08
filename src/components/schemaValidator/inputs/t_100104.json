@@ -1,0 +1,50 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100104",
+  "assets": [
+    {
+      "asset_basename": "t_100104-1.html",
+      "asset_md5": "2abda1a29b5dc99463aaabb6e794f464",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100104-1",
+          "author_id": "a_000092",
+          "message_subject": "Re: Hardship",
+          "message_body": "I sent them to you via Luminpdf.com",
+          "timestamp": "2023-10-10T11:08:01",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100104-2.html",
+      "asset_md5": "a8f877280014ed892a70dbe536c46d27",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100104-2",
+          "author_id": "a_000092",
+          "message_subject": "Re: Hardship",
+          "message_body": "I filled out all that I know. We don't have any case numbers except on the Inventory sheet they left.",
+          "timestamp": "2023-10-10T11:08:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

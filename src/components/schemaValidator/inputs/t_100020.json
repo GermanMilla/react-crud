@@ -1,0 +1,71 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100020",
+  "assets": [
+    {
+      "asset_basename": "t_100020-1.html",
+      "asset_md5": "95b743e2f062411b8ff3f73c3d5027f6",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100020-1",
+          "author_id": "a_000021",
+          "message_subject": "RE: [EXTERNAL] Kris Fenley",
+          "message_body": "Will do once the ID populates.",
+          "timestamp": "2021-11-24T08:53:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000013"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100020-2.html",
+      "asset_md5": "e1be7b41cb40fc14d12e475a5835b1b6",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100020-2",
+          "author_id": "a_000021",
+          "message_subject": "[EXTERNAL] Kris Fenley",
+          "message_body": "Kris is now hired. In a few hours there should be an email sent to [email_address]\n\n \n\nPlease make sure that you have access to that and do that training. If not, email me back and let me know so that I can send it to this email. Thank you.",
+          "timestamp": "2021-11-24T07:50:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100020-3.html",
+      "asset_md5": "78835e7bac6d544e1779a56d1a4509b3",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100020-3",
+          "author_id": "a_000013",
+          "message_subject": "Re: [EXTERNAL] Kris Fenley",
+          "message_body": "He does not have access at the moment please send it to this address",
+          "timestamp": "2021-11-24T07:56:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000021"
+          ]
+        }
+      }
+    }
+  ]
+}

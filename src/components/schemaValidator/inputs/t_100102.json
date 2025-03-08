@@ -1,0 +1,71 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100102",
+  "assets": [
+    {
+      "asset_basename": "t_100102-1.html",
+      "asset_md5": "18a5ab66407fba692d1b1bd985a156db",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100102-1",
+          "author_id": "a_000068",
+          "message_subject": "Missing Assignments",
+          "message_body": "Hello Brandie,\n\n\n\n\nYou are currently at a [pii] average, an [pii] grade. This is because you are missing the following assignments:\n\n\n\n\nWeek 2 Discussion\n\n\n\n\nWeek 2 Activity – Preparing for an Investigation\n\n\n\n\nWeek 3 Discussion\n\n\n\n\nWeek 3 Quiz\n\n\n\n\nWeek 3 Assignment - CSI\n\n\n\n\nPlease let me know if you need any assistance with these or have any questions about these assignments.\n\n\n\n\nThanks!\n\n\n\n\n[personal_name] / [phone_number]",
+          "timestamp": "2024-01-23T01:20:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".edu\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100102-2.html",
+      "asset_md5": "68b53b4936d5ba3e0d19126cfe75a21c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100102-2",
+          "author_id": "a_000068",
+          "message_subject": "Re: Missing Assignments",
+          "message_body": "Brandie,\n\n\nI am glad you are feeling better.\n\n\nLet me know if you need any assistance.\n\n\n[personal_name]",
+          "timestamp": "2024-01-24T12:11:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".edu",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100102-3.html",
+      "asset_md5": "e638471f58db245ad18cdb1df496a686",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100102-3",
+          "author_id": "a_000066",
+          "message_subject": "Re: Missing Assignments",
+          "message_body": "Hi.  Yes Sir.  I apologize for the missing assignments.  I have been sick.  I am on the mend now and have started reading and working on the missing assignments.  I apologize for the inconvenience my being late will cause you.  \nThank you, \n[personal_name]",
+          "timestamp": "2024-01-23T12:23:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000068"
+          ]
+        }
+      }
+    }
+  ]
+}

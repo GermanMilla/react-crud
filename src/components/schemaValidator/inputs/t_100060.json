@@ -1,0 +1,56 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100060",
+  "assets": [
+    {
+      "asset_basename": "t_100060-1.html",
+      "asset_md5": "2e109fc17db4c25a2d76b7978b812a08",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100060-1",
+          "author_id": "a_000066",
+          "message_subject": "ATTENTION MRS PATTERSON",
+          "message_body": "Mrs. Patterson,\n\nMy name is [personal_name].  You helped me this time last year with my food stamp case.  I am writing again because there is an issue.  I called on Friday and spoke with one of your employees because I set up an online account.  When I completed the set up it said my case was closed so obviously I freaked out.  The worker that I spoke with told me that it was an error with the online system and that I would have to call them.  She stated she was looking at my account and it was active and good until March.  My benefits are scheduled to hit on the 17th, which is today and benefits did not hit my card.  I haven't received any notices and this is a huge blow especially going into Christmas.  Not knowing what to do, I went ahead and filled out an application online and emailed you.  On my last application I was receiving social security.  I attached a copy of my benefits letter showing that I am not currently receiving that.  I can immediately send any other information that is needed.  I have absolutely no money and no food and want to help straighten out this as soon as possible.  \n\nThank you for your help,\n\n[personal_name]",
+          "timestamp": "2023-12-17T12:23:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000078"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100060-2.html",
+      "asset_md5": "4d1dcb34def768fe2481595b19a047fb",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100060-2",
+          "author_id": "a_000079",
+          "message_subject": "FW: ATTENTION MRS PATTERSON",
+          "message_body": "Good Morning,\n\n \n\nYour email is being forwarded to the Food Assistance Division for further assistance regarding food assistance. \n\n \n\nInformation about programs administered by the Department of Human Resources (DHR) can be found on our website at [url]. Click on \"Services\" for information about the specific services provided by each program. You can contact the Department of Human Resources in the county where you live to apply for programs for which you may be eligible. \n\n \n\nYou may also want to contact [phone_number], [organization_name], by dialing 2-1-1, or access the My Alabama website at [url] for information about programs and services available in the State other than those directly related to DHR.\n\n \n\nI hope this information proves helpful to you and your family.\n\n \n\n \n\n[personal_name]",
+          "timestamp": "2023-12-18T08:01:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".gov",
+          "to": [
+            "a_000066"
+          ],
+          "cc": [
+            "a_000080"
+          ]
+        }
+      }
+    }
+  ]
+}

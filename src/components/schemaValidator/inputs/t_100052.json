@@ -1,0 +1,71 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100052",
+  "assets": [
+    {
+      "asset_basename": "t_100052-1.html",
+      "asset_md5": "a56fe69fed33995c6a0ed1d68114e4c6",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100052-1",
+          "author_id": "a_000069",
+          "message_subject": "Foley, AL-Salt Life Store Mystery Shop",
+          "message_body": "Hello Brandie, I have a great mystery shop open for you this week at Salt Life in Foley, AL. You MAY NOT see this shop on our website, so contact me if you are interested.\n\nIMPORTANT UPDATE: For this shop, you MUST upload a selfie-style photo, so if you have done this shop before, please review the new instructions before going to any shops this month!\n\nFor this shop, you will go into the store and shop around for beach/swim attire. You will have an interaction with an employee where you will get help finding something to try on in the dressing room. The purpose of this shop is to evaluate the interaction with the employees and the cleanliness of the store, including the dressing room. You do NOT need to make a purchase, but if you do, you will also evaluate the cashier experience.\n\nThis shop pays $25!\n\nPlease respond to this email letting me know what date works for sure, or login and request this shop on our website.\n\nThanks and Take Care ~Amy\n\n\n\n[url]\n[phone_number]\nYour Shopper ID: [pii]\n\n\n\n[personal_name]",
+          "timestamp": "2024-02-05T12:52:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100052-2.html",
+      "asset_md5": "690fa118fc0738d3a7791460db35abf0",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100052-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: Foley, AL-Salt Life Store Mystery Shop",
+          "message_body": "Hi.  I am interested in this shop.  I just got out of the hospital this morning so I will not be able to do the shop until tomorrow or any day after that.  \nThank you.",
+          "timestamp": "2024-02-05T13:03:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000069"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100052-3.html",
+      "asset_md5": "9a01f8b92b4d6abe9a28b3f87bdbc7df",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100052-3",
+          "author_id": "a_000069",
+          "message_subject": "Re: Foley, AL-Salt Life Store Mystery Shop",
+          "message_body": "Hi,\n\nI appreciate your interest in this shop! Unfortunately, it has already been assigned to another shopper. Please continue to monitor your email and shopper portal for additional shop opportunities in your area. I will add you to my list in case this shop reopens. \n\n\n\n\nMore shop opportunities are added at the beginning of each month, due to how our clients structure their programs.\n\n\n\n\nThank you!\n\t\n\n[personal_name]",
+          "timestamp": "2024-02-06T11:58:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

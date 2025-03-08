@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100106",
+  "assets": [
+    {
+      "asset_basename": "t_100106-1.html",
+      "asset_md5": "c3139d5976985345fb8988b3afbe0708",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100106-1",
+          "author_id": "a_000082",
+          "message_subject": "Strayer University Account Director Hamiyda Scipio Special << 48-hours only >> Offer",
+          "message_body": "Hi Brandie,\n\nMy name is Hamiyda and I’m part of the New Member Engagement team at [organization_name]. I have the great privilege to work with members at [organization_name].\n\n \n\nI just wanted to check if you have any questions about Lifetime Membership with [organization_name]? If you do, please feel free to contact me by replying to this email if you want to find out more. I'd be happy to help you.\n\nI put together a few of the questions about GK that come up quite a lot and you might find interesting - have a look here.\n\n\nAlso, I'm allowed to give a small discount to certain students (we don't usually do discounts) and I'd really like to offer one to you. If you complete your membership before midnight on Friday you will get a 20% discount off Lifetime Membership to [organization_name] when you use the code [pii]. This offer is only valid on one-time payment of a [organization_name] membership, and not for payment plans.\n\n \n\nAnd if you haven't started registration yet CLICK HERE ---> Registration Form to Continue Activation - remember, join by midnight on Friday 26th May 2023 to get 20% off using the code [pii].\n\n\nI know this is lots to process - so if you have any questions, just get in touch.\n\n \n\nPS - If you are already a member of [organization_name], then please note that your membership is not currently connected to this email address and needs to be updated! To update your profile, you can send a (friendly;) message to our hard-working customer service team by replying to this email and they will assist you in updating your account. Or simply unsubscribe this email address by clicking below.",
+          "timestamp": "2023-05-23T11:46:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100106-2.html",
+      "asset_md5": "e0ac0d8c82961a4d299b1950d498aa65",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100106-2",
+          "author_id": "a_000082",
+          "message_subject": "Re: [organization_name] Account Director [personal_name] Special << 48-hours only >> Offer",
+          "message_body": "Hi, Brandie\n\n\n\n\nWe understand finances play a role in deciding to join [organization_name], so your invite code is active for one full year from receiving it, meaning you can join on your own timeline. [organization_name] also offers a payment plan of 3 installments for 90 days: 1. [financial_data] 2. [organization_name] 3. [financial_data]. There is a [financial_data] convenience pay. For more information about the payment plan offer, please reach out to [personal_name] at [email_address].",
+          "timestamp": "2023-05-24T09:30:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100106-3.html",
+      "asset_md5": "52516c6c46979d0bf00be24feb6e91e2",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100106-3",
+          "author_id": "a_000066",
+          "message_subject": "Strayer University Account Director Hamiyda Scipio Special << 48-hours only >> Offer",
+          "message_body": "Thank you very much for the honor of joining.  I am unable to join even with the discount you offered.  Right now money is very much an issue.  I am currently in a home with no power because of lack of income.  I do greatly appreciate the invitation and hopefully sometimes in the very near future should you decide to offer it again and I will be able to join.  Thank you.",
+          "timestamp": "2023-05-24T04:19:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

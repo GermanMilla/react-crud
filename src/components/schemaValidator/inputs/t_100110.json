@@ -1,0 +1,89 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100110",
+  "assets": [
+    {
+      "asset_basename": "t_100110-1.html",
+      "asset_md5": "d832af6533d7fc5b258ac84ad853a862",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100110-1",
+          "author_id": "a_000066",
+          "message_subject": "[EXTERNAL] Donation letter and grant",
+          "message_body": "Hi. I was just wanting to see if you got the letter for Mr. Crowder done and see how the grant was going. If they are ready I can pick them up tomorrow and deliver to Mr. Crowder and then get feedback on the grant. \n\nThank you,\n\n[personal_name]\n\n[phone_number]",
+          "timestamp": "2019-11-19T12:05:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100110-2.html",
+      "asset_md5": "c910d41a127891ec92d75cfb4ab98c30",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100110-2",
+          "author_id": "a_000095",
+          "message_subject": "[EXTERNAL] Donation letter and grant",
+          "message_body": "I have the one for Crowder. We have rough draft for the grants.",
+          "timestamp": "2019-11-19T12:13:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100110-3.html",
+      "asset_md5": "b312de9f005fba4265e3a4d2728a3382",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100110-3",
+          "author_id": "a_000066",
+          "message_subject": "Re: [EXTERNAL] Donation letter and grant",
+          "message_body": "Ok I will get the letter this week and if you would like me to get the rough draft I can or wait until you are done. I am fine with however you would like to handle it.",
+          "timestamp": "2019-11-19T12:15:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000095"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100110-4.html",
+      "asset_md5": "cfaf288b02cb273b38ebc6ef4fa9f2d9",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100110-4",
+          "author_id": "a_000095",
+          "message_subject": "Re: [EXTERNAL] Donation letter and grant",
+          "message_body": "Come by and we will meet on what we have composed.",
+          "timestamp": "2019-11-19T12:23:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100054",
+  "assets": [
+    {
+      "asset_basename": "t_100054-1.html",
+      "asset_md5": "ef972bfa88730e90999c4f60470be86c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100054-1",
+          "author_id": "a_000071",
+          "message_subject": "Re: 911 address",
+          "message_body": "Please fill out the request via our online form and we will review it and assign an address.  We will need a site/building layout showing both units, hand drawn is fine unless you have something more formal.  \n\n\n[url]\n\n\n\nThank you,\n[personal_name]",
+          "timestamp": "2024-01-07T22:35:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org",
+          "to": [
+            "a_000066"
+          ],
+          "cc": [
+            "a_000072"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100054-2.html",
+      "asset_md5": "e78566e293a20e5e0c7a109682c3e6fe",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100054-2",
+          "author_id": "a_000066",
+          "message_subject": "911 address",
+          "message_body": "Hi.  My name is [personal_name].  I am emailing because I am needing to know the proper procedure for getting a separate 911 address for the residence that I am renting.  I unit I am renting shares a wall with another residence but does interconnect.  I am paying rent on it also.   I have been informed that it does not count as a separate residence if it does not have a separate 911 address though my attorney stated otherwise.  The address is [address] and I would be considered apartment B I suppose.  I would like to make this an official request to split my apartment into B.  \nThank you for your help and any information you provide.  \n[personal_name]\n[phone_number]",
+          "timestamp": "2024-01-07T22:26:32",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000071"
+          ]
+        }
+      }
+    }
+  ]
+}

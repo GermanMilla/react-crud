@@ -1,0 +1,86 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100017",
+  "assets": [
+    {
+      "asset_basename": "t_100017-1.html",
+      "asset_md5": "d83047eacb9d11de742342cb5f5cb506",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100017-1",
+          "author_id": "a_000020",
+          "message_subject": "Super Freak: Bigger & Better",
+          "message_body": "Greetings!\n\n\nWe're very excited to announce that the world premiere of SUPER FREAK: BECAUSE OF RICK JAMES just got bigger & better! With CDC changes taking place in Texas on March 10th, we've opted for a bigger venue which means more space to FIRE IT UP, more grooves to be played on the L7, and a little more edginess for our STREET SONGS!\n\n\nOur world premiere will now take place July 8th-17th, 2022 at the MATCH theatre in Midtown. All tickets will be honored for this exciting event at the day and time of your choosing. In addition, we're throwing in 1 complimentary ticket for one additional guest to attend with you. \n\n\nIn the case that you can not attend during those dates, we'd like to invite you to donate your ticket to our non-profit as we continue to create art for the city of Houston and surrounding areas by simply replying DONATE. For those unable to attend and don't wish to submit a donation, a full refund can be offered by responding to this email \"refund\" with the ticket purchaser's name and the last 4 of the payment card used.\n\n\nWe look forward to seeing you on stage in July as we bring out the SUPER FREAK in you!",
+          "timestamp": "2022-02-26T18:27:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100017-2.html",
+      "asset_md5": "abe691ba5ab71cf0e3e1d8428be9a6de",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100017-2",
+          "author_id": "a_000013",
+          "message_subject": "Re: Super Freak: Bigger & Better",
+          "message_body": "You guys never stated anything about cut off dates in the original email. That is unfair and ridiculous",
+          "timestamp": "2022-05-11T23:56:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000020"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100017-3.html",
+      "asset_md5": "1f3a621d80bd8f6ae91798d1674e3481",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100017-3",
+          "author_id": "a_000013",
+          "message_subject": "Super Freak: Bigger & Better",
+          "message_body": "Refund\n[personal_name]\n[account_info]",
+          "timestamp": "2022-05-11T20:30:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100017-4.html",
+      "asset_md5": "bf458f6968e0ef89b11248d789650b18",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100017-4",
+          "author_id": "a_000020",
+          "message_subject": "Super Freak: Bigger & Better",
+          "message_body": "Hello Deletha,\n\n\nYour ticket has already been transferred to the July dates. All tickets who didn't respond during that time period have now been transferred to non refundable.\n\n\nIf you have any questions you can call [organization_name] tomorrow 9am-4pm at [phone_number]",
+          "timestamp": "2022-05-11T21:26:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

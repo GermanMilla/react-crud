@@ -1,0 +1,227 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100108",
+  "assets": [
+    {
+      "asset_basename": "t_100108-1.html",
+      "asset_md5": "1b3a58d28de228c24e653c288a904a0f",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-1",
+          "author_id": "a_000094",
+          "message_subject": "RE: rental grant app",
+          "message_body": "[financial_data]",
+          "timestamp": "2020-12-03T14:14:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-2.html",
+      "asset_md5": "05c796de1d322694ae76513c2fa019ee",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-2",
+          "author_id": "a_000066",
+          "message_subject": "RE: rental grant app",
+          "message_body": "Here is the fordwarded emails about receiving [financial_data] for rent. I have called and emailed [personal_name] and waitibg on a response. I will bring you the money order for [financial_data]. \n\n   I apologive for all of this inconvience.",
+          "timestamp": "2021-01-07T11:05:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-3.html",
+      "asset_md5": "b71f13720042d5a20f19f4df79dff162",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-3",
+          "author_id": "a_000066",
+          "message_subject": "Re: rental grant app",
+          "message_body": "Hi. The manager inforned me yesterday that they never recieved the rental check. I was wondering if you had any news. \n\nThank you, \n\n[personal_name]\n\n[phone_number]",
+          "timestamp": "2021-01-07T13:48:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000094"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-4.html",
+      "asset_md5": "4d06b7377ae9fdfe17e76467281dc4ee",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-4",
+          "author_id": "a_000094",
+          "message_subject": "RE: rental grant app",
+          "message_body": "A check was mailed to [pii] in Summerdale in early December.",
+          "timestamp": "2021-01-07T14:46:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-5.html",
+      "asset_md5": "6522128e1b9257db70481c80858c2b6f",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-5",
+          "author_id": "a_000066",
+          "message_subject": "Re: rental grant app",
+          "message_body": "No maam I sign tomorrow. I will send a copy once I do. There should have been an email with my dl and several other supporting documents. I will resend. You should have a copy of my drivers license, ledger showing my apartment address, notice to vacate and several pictures showing some damage done to the building. \n\nThank you",
+          "timestamp": "2020-11-03T14:11:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000094"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-6.html",
+      "asset_md5": "bb514c282fd9bdcc34c888e5f532a417",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-6",
+          "author_id": "a_000094",
+          "message_subject": "RE: rental grant app",
+          "message_body": "I never got your new lease agreement.  Please send if by Tuesday or your application will not be processed. Thank you",
+          "timestamp": "2020-11-25T14:29:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-7.html",
+      "asset_md5": "f0641c7b15b2ae86de7b7f956f1cdba9",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-7",
+          "author_id": "a_000094",
+          "message_subject": "RE: rental grant app",
+          "message_body": "Should the check be made payable to ARD or [personal_name]?",
+          "timestamp": "2020-11-30T12:33:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-8.html",
+      "asset_md5": "51efa261825be4546d0896e2f74e82df",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-8",
+          "author_id": "a_000066",
+          "message_subject": "RE: rental grant app",
+          "message_body": "[personal_name]",
+          "timestamp": "2020-12-03T09:28:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-9.html",
+      "asset_md5": "4ed2197b68a8734b2ece7a50f1e8f6cc",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-9",
+          "author_id": "a_000066",
+          "message_subject": "Re: rental grant app",
+          "message_body": "I apologize for the delay in answering. I guess my phone is going wonky. I see the email dated for November 30 but it just now showed in my inbox. I apologize for the inconvenience. \n\nThank you.",
+          "timestamp": "2020-12-03T09:31:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000094"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-10.html",
+      "asset_md5": "4d4f226858ce9fe1f4c389927fe32cc4",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-10",
+          "author_id": "a_000094",
+          "message_subject": "RE: rental grant app",
+          "message_body": "Thanks. A check will go out this week.",
+          "timestamp": "2020-12-03T11:29:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100108-11.html",
+      "asset_md5": "ced0a0a6e717da66aee362ebe343d556",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100108-11",
+          "author_id": "a_000066",
+          "message_subject": "Re: rental grant app",
+          "message_body": "That is amazing. Can you tell me for how much please?",
+          "timestamp": "2020-12-03T13:06:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000094"
+          ]
+        }
+      }
+    }
+  ]
+}

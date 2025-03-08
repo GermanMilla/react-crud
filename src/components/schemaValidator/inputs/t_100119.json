@@ -1,0 +1,86 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100119",
+  "assets": [
+    {
+      "asset_basename": "t_100119-1.html",
+      "asset_md5": "ff5dab4d68bd2fbf47f5636b3ada5ba9",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100119-1",
+          "author_id": "a_000105",
+          "message_subject": "Business Intelligence Analyst - AutoRentals.com",
+          "message_body": "Dear Robert,\n\nThank you for your application. I'd like to set up a call with you to discuss this opportunity. Could you please suggest some times when you will be available in the next few days?\n\nI look forward to speaking with you.\n\nSincerely,\n\n[personal_name]",
+          "timestamp": "2024-03-18T14:56:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100119-2.html",
+      "asset_md5": "03001b75912e5a3d82d894b0f440e03d",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100119-2",
+          "author_id": "a_000097",
+          "message_subject": "Re: Business Intelligence Analyst - AutoRentals.com",
+          "message_body": "Hello Maggie,\n\n\nIt sounds great to me. I'll talk to you then.\n\n\n\nBest",
+          "timestamp": "2024-03-18T18:36:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000105"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100119-3.html",
+      "asset_md5": "8e20fc70ffe87cf26cd37ca84f7303ff",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100119-3",
+          "author_id": "a_000097",
+          "message_subject": "Business Intelligence Analyst - AutoRentals.com",
+          "message_body": "Hello Maggie,\n\n\nThank you for reaching out to me. I am available for a call on Wednesday afternoon and anytime on Thursday and Friday.\n\n\nI am excited to speak with you and learn more about this opportunity, as well as share what I can bring to the table.\n\n\nBest regards,",
+          "timestamp": "2024-03-18T16:43:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100119-4.html",
+      "asset_md5": "d1869f55257917ee2ec29db92182fe28",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100119-4",
+          "author_id": "a_000105",
+          "message_subject": "Business Intelligence Analyst - AutoRentals.com",
+          "message_body": "Hello Again Richard,\n\n\nHow about Wednesday afternoon at 1 pm EST?",
+          "timestamp": "2024-03-18T16:53:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

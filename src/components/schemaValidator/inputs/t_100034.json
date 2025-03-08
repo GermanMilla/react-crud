@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100034",
+  "assets": [
+    {
+      "asset_basename": "t_100034-1.html",
+      "asset_md5": "38afe65f9e0bc5573ede8683dcc49507",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100034-1",
+          "author_id": "a_000064",
+          "message_subject": "Influencer campaign? - Physician's Choice",
+          "message_body": "Hi there,\n\n\n\n\n\nWe love your IG profile [pii] and would like to invite you to collaborate on our [url] campaign (must live in the US). My name is Casey and I’m one of the campaign managers for [organization_name], an invite-only community for influencers. We would love for you to be a part of our community!\n\nPhysician's Choice is the fastest growing supplement brand on Amazon, offering premium ashwagandha, probiotic, collagen and biotin products of the highest potency and purity. Delivering quality dietary supplements for daily use with clinically tested ingredients, Physician’s Choice science-backed formulas are designed to support your gut's complex microbiome and strengthen your immune system.\n\n\nHere are a few people who have participated in our Physician's Choice campaign:[url], [url]\n\n\nAs a participant of our campaign, you will have the option to select and try any of these [url].\n\n\n\n\nIf this interests you, please let me know if you would like to join this campaign :)\n\nHoping this note finds you and yours well during these uncertain times.\n\n\n\nBest,\n\nCasey\n\n\n\n\n\n[personal_name]",
+          "timestamp": "2020-05-15T14:01:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100034-2.html",
+      "asset_md5": "6106725e0baa9858fa9f1851296d19b0",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100034-2",
+          "author_id": "a_000064",
+          "message_subject": "Re: Influencer campaign? - Physician's Choice",
+          "message_body": "Hey Deletha,\n\n\n\n\n\nAwesome, glad to have you on board! \n\n\nTo join this campaign, please select your preferred [url]\n\n\nReally looking forward to collaborating with you on this campaign :)\n\n\n\n\nThanks!\nCasey",
+          "timestamp": "2020-05-15T18:55:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000013"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100034-3.html",
+      "asset_md5": "94d31227db98cfe8884d1627352c143a",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100034-3",
+          "author_id": "a_000013",
+          "message_subject": "Influencer campaign? - Physician's Choice",
+          "message_body": "I would love to be apart!",
+          "timestamp": "2020-05-15T14:21:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

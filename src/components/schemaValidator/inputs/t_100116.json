@@ -1,0 +1,89 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100116",
+  "assets": [
+    {
+      "asset_basename": "t_100116-1.html",
+      "asset_md5": "fa3f8dbdb5179175b42554990f7cf959",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100116-1",
+          "author_id": "a_000102",
+          "message_subject": "[EXTERNAL] Re: Comcast Interview Availability –Robert Richardson - Analyst 2, Enterprise Data and Analytics (R382769)",
+          "message_body": "Hello Robert\n\n \n\nMy name is [personal_name] and I am reaching out to schedule your video interview for the Analyst 2, Enterprise Data and Analytics position with [organization_name]! I will be scheduling you for ONE, 45-minute  interview with the following:\n\n \n\n·   Bradford Politi-Director, Audit and Control\n\n \n\nI wanted to connect today to discuss your upcoming availability so we can begin to create your interview schedule. That said, looking at the remainder of this week and into the week of Monday, March 18th, are there any dates/times that work best with your schedule or any dates/times to avoid when scheduling your video interview? Once I receive your availability, I will follow up with your interviewer) to find a date and time that works for both of you.\n\n \n\nI look forward to hearing back from you and getting your interview scheduled!\n\n \n\nThank you,\n\n \n\nIf you require reasonable accommodation in completing this interview, please direct your inquiries to [email_address].\n\n \n\n[personal_name] (she/her) |[organization_name]",
+          "timestamp": "2024-03-12T10:30:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100116-2.html",
+      "asset_md5": "3a2d894a5beca543004f00636f62f083",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100116-2",
+          "author_id": "a_000097",
+          "message_subject": "Re: [EXTERNAL] Re: [organization_name] Interview Availability –[personal_name] - Analyst 2, Enterprise Data and Analytics [pii]",
+          "message_body": "Hello Breonica,\n\n\nSounds good, thank you for the update. \n\n\n\nBest,\n[personal_name]",
+          "timestamp": "2024-03-12T15:53:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000102"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100116-3.html",
+      "asset_md5": "f16b3b33f65fbf8dc429fc1d5b4c041b",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100116-3",
+          "author_id": "a_000097",
+          "message_subject": "[EXTERNAL] Re: [organization_name]Interview Availability –[personal_name] - Analyst 2, Enterprise Data and Analytics\n\n[pii]",
+          "message_body": "Hello Breonica,\n\n \n\nThank you for reaching out to me. I called you a few times but only got your voicemail.\n\n \n\nThe best dates and times for me are tomorrow, Wednesday, or Thursday, from 9:00 AM to 5:00 PM, or next week, from Tuesday to Thursday, in the same time range.\n\n \n\nPlease feel free to call me back or email me if this works for you and if you have any updates.\n\n \n\nThank you,\n\n[personal_name]",
+          "timestamp": "2024-03-12T11:18:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000102"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100116-4.html",
+      "asset_md5": "2d73c7209d0875ddaff5b39466af2392",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100116-4",
+          "author_id": "a_000102",
+          "message_subject": "[EXTERNAL] Re: Comcast Interview Availability –Robert Richardson - Analyst 2, Enterprise Data and Analytics (R382769)",
+          "message_body": "Hello Robert,\n\n \n\nThank you for providing your upcoming availability. As I am working to receive the interviewer's availability. As soon as I receive, I will follow up with a potential interview schedule for you. In the meantime, do not hesitate to reach out with any questions or concerns!",
+          "timestamp": "2024-03-12T15:21:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

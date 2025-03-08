@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100063",
+  "assets": [
+    {
+      "asset_basename": "t_100063-1.html",
+      "asset_md5": "29b9cfbb7da88d332f2240cf85673188",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100063-1",
+          "author_id": "a_000084",
+          "message_subject": "Re: Library card application",
+          "message_body": "You are very welcome.",
+          "timestamp": "2023-07-07T15:18:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100063-2.html",
+      "asset_md5": "fb93965d3d147338f4b27619deb613bf",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100063-2",
+          "author_id": "a_000084",
+          "message_subject": "Re: Library card application",
+          "message_body": "Good Afternoon Brandie,\nThank you for your application for a library card, unfortunately our library is located in Baldwin, New York.  You must be a resident of the Baldwin School District to receive a card.  I was trying to locate which library would be in your area but I had no luck.  \nRegards and Have a great day!\nBianca\n\n[personal_name]",
+          "timestamp": "2023-07-07T13:04:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100063-3.html",
+      "asset_md5": "ff09ad9ba87ef3e6b03cac674cae7f15",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100063-3",
+          "author_id": "a_000066",
+          "message_subject": "Re: Library card application",
+          "message_body": "I apologize for the confusion.  I could have swore I clicked on the [organization_name] link.  Thank you for letting me know I had the wrong one.  \n\n\n[personal_name]",
+          "timestamp": "2023-07-07T15:22:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

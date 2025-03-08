@@ -1,0 +1,21 @@
+.popup-table-participant-info th,
+.popup-table-participant-info td {
+    padding: .1em 1em;
+}
+
+.session-discrepancy {
+    background-color: rgba(255, 255, 0, 0.425) !important;
+}
+
+.session-item-sameday {
+    background-color: rgba(0, 255, 13, 0.425);
+}
+
+.session-item-discrepancy {
+    background-color: rgba(255, 255, 0, 0.425);
+}
+
+.participant-id-cell:hover {
+    background: rgba(212, 0, 255, 0.322);
+    font-weight: bold;
+}

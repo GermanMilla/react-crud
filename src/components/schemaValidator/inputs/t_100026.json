@@ -1,0 +1,128 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100026",
+  "assets": [
+    {
+      "asset_basename": "t_100026-1.html",
+      "asset_md5": "ab521545dcd50abad8fe4c05f744be71",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-1",
+          "author_id": "a_000023",
+          "message_subject": "Courtyard Houston Westchase",
+          "message_body": "Hello Deletha,\n\n \n\nI do not see that charge.  May I ask who took your card to charge it and said there would be an additional charge?\n\n \n\nThank You,\n\n \n\n[personal_name]",
+          "timestamp": "2021-05-03T13:27:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100026-2.html",
+      "asset_md5": "9a141b912576538fa6e7034edc30e101",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-2",
+          "author_id": "a_000013",
+          "message_subject": "Re: Courtyard Houston Westchase",
+          "message_body": "She didnt take my card it was already on file but i didnt get her name at all. Whoever worked 6:20pm may1st  it was a African American lady",
+          "timestamp": "2021-05-03T13:30:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000023"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100026-3.html",
+      "asset_md5": "17b223ecbd05ff4b1c390f177b97ff81",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-3",
+          "author_id": "a_000013",
+          "message_subject": "Re: Courtyard Houston Westchase",
+          "message_body": "Okay thank you for all your help! You really made this all possible working with me on the times and price for the day i cant thank you enough! God Bless",
+          "timestamp": "2021-05-03T13:56:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000023"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100026-4.html",
+      "asset_md5": "234eb51550faaefd7391cea112693034",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-4",
+          "author_id": "a_000023",
+          "message_subject": "Courtyard Houston Westchase",
+          "message_body": "Hello Deletha,\n\n \n\nI found it!  They are authorizations and they have been released!  I apologize she is a new agent and I will work with her on training, as she should have seen that I already took payment and we do not charge if you stay later to clean up.  I appreciate you bringing this to my attention so that I was able to confirm it was released and so I could work with my front desk agent.\n\n \n\n \n\nThank You,\n\n \n\n[personal_name]",
+          "timestamp": "2021-05-03T13:38:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100026-5.html",
+      "asset_md5": "f2f352d1ee1de395dc234d839044c96b",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-5",
+          "author_id": "a_000023",
+          "message_subject": "Courtyard Houston Westchase",
+          "message_body": "Hello Deletha,\n\n \n\nAttached is the receipt for your record.  As you can see the card was charged once.  I do not show an authorization but I have released just in case there was one I could not find.\n\n \n\nThank You,\n\n \n\n[personal_name]",
+          "timestamp": "2021-05-03T11:42:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100026-6.html",
+      "asset_md5": "111b43f7370802996b267ed2b2d3eff4",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100026-6",
+          "author_id": "a_000013",
+          "message_subject": "Re: Courtyard Houston Westchase",
+          "message_body": "Okay so thats weird because she also charged me an extra [financial_data] for staying too long to cleanup after. So you dont even see that charge\n\nEither?",
+          "timestamp": "2021-05-03T13:23:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000023"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100057",
+  "assets": [
+    {
+      "asset_basename": "t_100057-1.html",
+      "asset_md5": "f310749a3962f7d0a66684cc2a6a4592",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100057-1",
+          "author_id": "a_000066",
+          "message_subject": "Rehab",
+          "message_body": "Hi.  I am emailing because I spoke with you back in October and you helped me fill out the application and get [personal_name] into your program.  I apologize for bothering you on Christmas but I do not know what else to do since there is no one manning the phones at the rehab that I have been able to reach.  I am listed as Ryan's emergency contact and he gave permission for y'all to release info to me.  The info I am currently needing is Ry still there.  Start late Friday I started getting message from random people that Ry had left rehab and that he had overdosed.  I have not been able to confirm this or confirm that he is still in rehab and I am worried sick.  I would appreciate any information you can give me. \nSincerely,\n[personal_name]",
+          "timestamp": "2023-12-25T07:31:03",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "personal",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000075"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100057-2.html",
+      "asset_md5": "ba65f7e7c5dabab2f812d28ab41794cb",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100057-2",
+          "author_id": "a_000075",
+          "message_subject": "Re: Rehab",
+          "message_body": "Give the office a call at [phone_number] and hit the number that asks if it's a emergency",
+          "timestamp": "2023-12-25T09:30:23",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "personal",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100057-3.html",
+      "asset_md5": "4b8f660fff0f53edff3f8ebdc32c8859",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100057-3",
+          "author_id": "a_000075",
+          "message_subject": "Rehab",
+          "message_body": "It will transfer you to me.",
+          "timestamp": "2023-12-25T09:34:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "personal",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100057-4.html",
+      "asset_md5": "f231408bc7d9ded90589ca330e0f66ba",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100057-4",
+          "author_id": "a_000075",
+          "message_subject": "Re: Rehab",
+          "message_body": "Or if that didn't work send me your number and I will call",
+          "timestamp": "2023-12-25T10:47:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "personal",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100057-5.html",
+      "asset_md5": "e6d0c756033b633c31b7150b001ae474",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100057-5",
+          "author_id": "a_000066",
+          "message_subject": "Re: Rehab",
+          "message_body": "Thank you very much for your help.",
+          "timestamp": "2023-12-25T10:27:38",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "personal",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000075"
+          ]
+        }
+      }
+    }
+  ]
+}

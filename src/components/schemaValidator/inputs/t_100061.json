@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100061",
+  "assets": [
+    {
+      "asset_basename": "t_100061-1.html",
+      "asset_md5": "36b68594f171f4994d5fd39e06daa46c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100061-1",
+          "author_id": "a_000081",
+          "message_subject": "Join Strayer University Golden Key Chapter Today to Be Recognized at the Upcoming NMRE",
+          "message_body": "Hi Brandie,\n\n\n\nCongratulations! Your academic performance at [organization_name] has qualified you for membership in [pii]. By joining today, you will be able to attend the New Member Recognition Event on September 10th.\n\n[pii] is a membership organization that exists to honor and provide a lifetime of personal and professional development benefits to scholars (just like you) around the world in countries including Australia, the Bahamas, Canada, Malaysia, New Zealand, South Africa and the United States.\n\n\n\nMembership in [pii] is for a lifetime and, once you join, you don’t have to pay any recurring dues. We offer an amazing array of benefits for our members and I’d love to tell you about them.\n\n[url]\n[pii]\n\nI do hope you will consider becoming a part of our organization and that I may have the opportunity to work with you directly.\n\n\n\nIf you have any questions at all, please contact me at [email_address] so that we can make your membership experience the best possible.\n\n\nBest,\n\n[personal_name]",
+          "timestamp": "2023-08-30T14:43:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".org\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100061-2.html",
+      "asset_md5": "2c4759851904e0056facc033d98690a4",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100061-2",
+          "author_id": "a_000066",
+          "message_subject": "Join Strayer University Golden Key Chapter Today to Be Recognized at the Upcoming NMRE",
+          "message_body": "Hi.  I am deeply honored to receive this invitation and would like to thank you for the opportunity.  Unfortunately, due to extremely hard financial times, I am unable to accept.   Hopefully, I will receive this honor in the future and be able to accept it.\nThank you.",
+          "timestamp": "2023-08-30T17:31:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100061-3.html",
+      "asset_md5": "1c654629201f34491abdbab6f479ee40",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100061-3",
+          "author_id": "a_000082",
+          "message_subject": "Re: Join [organization_name] [pii] Today to Be Recognized at the Upcoming [pii]",
+          "message_body": "Hello Brandie,\n\n\n\n\nThank you for contacting us. We hope that your financial situation improves. We want to let you know that you have up to one year to take action on your membership invite and we also provide a 3-month payment plan.\n\n\n\n\nBest,\n\nMember Services",
+          "timestamp": "2023-08-30T17:18:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "professional-networking",
+          "top_email_domain": ".org",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

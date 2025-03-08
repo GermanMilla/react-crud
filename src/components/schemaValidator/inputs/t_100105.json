@@ -1,0 +1,56 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100105",
+  "assets": [
+    {
+      "asset_basename": "t_100105-1.html",
+      "asset_md5": "e04398309e4f4c1b251f908bebc616e6",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100105-1",
+          "author_id": "a_000089",
+          "message_subject": "Re: [pii] Week 3 Assignment",
+          "message_body": "Hello Brandie, and thank you for reaching out. Unfortunately, once your assignment has been submitted and graded, you may not resubmit the assignment for a better grade.\n\n\n[personal_name]",
+          "timestamp": "2023-08-15T18:50:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".edu",
+          "to": [
+            "a_000066"
+          ],
+          "cc": [
+            "a_000093"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100105-2.html",
+      "asset_md5": "19dcee7adc401a9aa80bc667ecca7198",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100105-2",
+          "author_id": "a_000066",
+          "message_subject": "[pii] Week 3 Assignment",
+          "message_body": "Hi.  I read your feedback on my assignment and resubmitted it after making corrections on August 5th.  I was wondering if a new grade would be issued or if it was to late to submit a corrected assignment? Thank you.",
+          "timestamp": "2023-08-12T16:28:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000089"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100103",
+  "assets": [
+    {
+      "asset_basename": "t_100103-1.html",
+      "asset_md5": "d3100964d31319c5118cb761002e9131",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100103-1",
+          "author_id": "a_000091",
+          "message_subject": "TELUS - DC Project [English - US] - Availability Check 2023 - URGENT",
+          "message_body": "Hello Participants,\n\nGreetings!\n\n \n\nNice to e-meet you, and I hope you are doing well!\n\n \n\nMy name is [personal_name], and I am working with the [organization_name] team.\n\n \n\nWe are reaching out to you for a new Lens Data collection project starting this week. You have been working with us on other projects in the last past months and we would like to know if you would be interested in taking part in this project.\n\n\n\n\nAbout the Project: \n\nThis project involves collecting images taken with your mobile phone or tablet of different types of documents. When text is involved, the documents will need to be in the (English-US) language, taken in your country. Specific instructions will follow on which type you will have to provide. Some examples of documents will be furniture, book pages, menu, parking sign, price tag,  misc shopping, text document, memes/comic doodle with text and so on.\nThe only device restriction is the camera quality which needs to be of at least 12 MP.\n\n\n\n\n\n\n\nNOTE - If documents do not fall under the target language or lack quality or clarity, they will not be accepted and paid.\n\n                                                                                                                                                                                                                    \n\nProject Details:\n\n\n\n\nProject           : Document Images \n\nAge                            : 18 + years of age\n\nTentative Start          : 11/1/2023\n\nProject Duration       : 10/2023 – 12/2023\n\nExpected availability: During the 6 weeks of the project length\n\nProject requirement : Uploading and sharing with us 50 images a day or 250 weekly.\n\nCompensation : The compensation will be paid per image which has passed the quality check.\n\nRate per accepted image: [financial_data]\n\n\n\n\nIf you are interested in this project, inform us about your availability by responding to this email, latest on 11/03.\nWe will then share the guidelines and the next steps. Please bear in mind that the project is for a limited number of documents, and we would be accepting the document images from the person who contacts us before we reach the desired number.\n\n\n--\n\n\n[personal_name]",
+          "timestamp": "2023-11-05T23:52:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100103-2.html",
+      "asset_md5": "7a8ff733c1e43a1c22e845f9cf4e004c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100103-2",
+          "author_id": "a_000091",
+          "message_subject": "Re: TELUS - DC Project [English - US] - Availability Check 2023 - URGENT",
+          "message_body": "Hi,\n\n\nThanks for your interest and valuable reply.\n\n\nWe will reach out to you with more project guidelines & instructions very soon.\n\n\nThanks & Regards,\n[personal_name]",
+          "timestamp": "2023-11-06T01:32:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100103-3.html",
+      "asset_md5": "423646c9e64f8af138263f96dea23c9c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100103-3",
+          "author_id": "a_000066",
+          "message_subject": "TELUS - DC Project [English - US] - Availability Check 2023 - URGENT",
+          "message_body": "Hi.  Thank you for the email. I would like to participate in the project.",
+          "timestamp": "2023-11-06T12:52:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

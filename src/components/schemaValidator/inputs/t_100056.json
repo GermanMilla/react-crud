@@ -1,0 +1,53 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100056",
+  "assets": [
+    {
+      "asset_basename": "t_100056-1.html",
+      "asset_md5": "385955c1a5ab363eb0f4232bb6f47f73",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100056-1",
+          "author_id": "a_000066",
+          "message_subject": "[organization_name]",
+          "message_body": "Hi.  I am emailing because I had a few questions about the [organization_name].  I wanted to clarify the payment details.  I saw that the payout was [financial_data] but the shop and special expense limit is zero so I was not sure how reimbursements worked, what was included room, meals etc? I would appreciate any information you could give.  \n\nThank you,\n\n[personal_name]",
+          "timestamp": "2024-01-02T08:46:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000074"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100056-2.html",
+      "asset_md5": "1c2bc11d45918ff2bb13c8c2c966cf3c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100056-2",
+          "author_id": "a_000074",
+          "message_subject": "RE: [organization_name]",
+          "message_body": "Good Morning Brandie,\n\n \n\nThe pay for this shop is [financial_data]. All expenses incurred by evaluation of required outlets, including overnight stays, are reimbursed. It looks like you have not registered with [organization_name] yet. After you register, you will need to log back into your account to take the brief introductory test. Once you have completed that, let me know. Please also send your previous mystery shopping experience that may be related to these types of shops.\n\n \n\nSincerely,\n\n \n\n[personal_name]",
+          "timestamp": "2024-01-02T08:55:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

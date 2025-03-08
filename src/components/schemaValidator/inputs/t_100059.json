@@ -1,0 +1,53 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100059",
+  "assets": [
+    {
+      "asset_basename": "t_100059-1.html",
+      "asset_md5": "6b1f4c8302b19c3e6434d376b44e9f23",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100059-1",
+          "author_id": "a_000066",
+          "message_subject": "Fwd: Rewards",
+          "message_body": "I am following up because I never received a response to my original email that is attached at the bottom.of this one.",
+          "timestamp": "2023-12-18T12:17:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000077"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100059-2.html",
+      "asset_md5": "d68181802c2afcab71d3b3574c317cb2",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100059-2",
+          "author_id": "a_000066",
+          "message_subject": "Rewards",
+          "message_body": "Hi.  My account is listed under this email.  I am reaching out because I have 14+ transactions pending in my rewards account.  These transactions are not itemized and they have been pending for well over 14 days, some a month or longer.  Can you please help me know which transactions are pending and when they will post.\nThank you",
+          "timestamp": "2023-12-13T03:04:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000077"
+          ]
+        }
+      }
+    }
+  ]
+}

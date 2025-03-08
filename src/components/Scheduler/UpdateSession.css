@@ -1,0 +1,235 @@
+.modal-book-update-session-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
+
+.participant-table-right input[type=checkbox] {
+    cursor: pointer;
+    width: 1.15em;
+    height: 1.15em;
+    accent-color: #66CC00;
+}
+
+
+.modal-book-update-session-main-container {
+    height: 100%;
+    min-width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2em;
+    background: #E0E0E2;
+    position: absolute;
+    border-radius: .2em;
+    overflow: hidden;
+}
+
+.modal-book-update-session-header {
+    top: 0px;
+    position: sticky;
+    padding: .2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: #E0E0E2;
+    font-size: 1.3em;
+}
+
+.modal-book-update-session-sub-header {
+    top: 0px;
+    position: sticky;
+    padding: .2em;
+    font-weight: bold;
+    text-align: center;
+    background-color: #E0E0E2;
+}
+
+.update-session-container {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 0 1em;
+    gap: 5em;
+    overflow-y: auto;
+}
+
+.participant-table {
+    display: inline-block;
+    border-collapse: collapse;
+}
+
+.participant-table-left {
+    padding: .2em 1em .2em .2em;
+    font-weight: bold;
+}
+
+.participant-table-right {
+    padding: .1em;
+    max-width: 30em;
+}
+
+.participant-table-center {
+    padding: .1em;
+    max-width: 30em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sub-header {
+    text-align: center;
+    font-weight: bold;
+    padding: .5em;
+}
+
+.ppt-comment {
+    font-size: 1em;
+    width: 25em;
+    border-radius: .3em;
+    padding: .3em;
+    resize: vertical;
+    min-height: 8em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    outline: none;
+}
+
+.session-comment {
+    font-size: 1em;
+    width: 25em;
+    border-radius: .3em;
+    padding: .3em;
+    resize: vertical;
+    min-height: 8em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    outline: none;
+}
+
+.cancel-button-row {
+    text-align: center;
+}
+
+.session-data-selector {
+    min-width: 7.5em;
+    font-size: 1em;
+    border-radius: .3em;
+    padding: 0em .3em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    outline: none;
+}
+
+tr input[type=checkbox] {
+    cursor: pointer;
+    accent-color: #8BE234;
+    margin-top: 0.5em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+}
+
+.external-id-button {
+    cursor: pointer;
+    width: 6.9em;
+    font-size: 1em;
+    border-radius: .3em;
+    padding: 0em .3em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background: #E0E0E2;
+}
+
+.refresh-api-button {
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: .3em;
+    padding: 0em .3em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background: red;
+    color: white;
+    margin-left: 1em;
+}
+
+.cancel-session-button {
+    padding: 0em .6em;
+    border: none;
+    font-weight: bold;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    cursor: pointer;
+    outline: none;
+    border-radius: .2em;
+    color: #fff;
+    background: #c20a6f;
+}
+
+.update-ethnicity-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.update-ethnicity-row label {
+    padding: .1em .3em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.update-ethnicity-row input[type=checkbox] {
+    cursor: pointer;
+}
+
+.update-ethnicity-row2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.bonus-container input,
+.bonus-container label {
+    cursor: pointer;
+    user-select: none;
+}
+
+.client-contribution-button {
+    user-select: none;
+    cursor: pointer;
+    font-size: 1em;
+    border-radius: .3em;
+    padding: .1em 1em;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background-color: #E0E0E2;
+    margin-bottom: .4em;
+}
+
+.same-day-contribution {
+    background-color: rgb(21, 255, 0);
+}
+
+.not-matching-client-data {
+    color: white;
+    background-color: red;
+}
+
+.client-info-container {
+    background-color: transparent;
+}
+
+.client-api-error-message {
+    color: white;
+    background: red;
+    font-size: 1.3em;
+}
+
+.same-external-id-error-message {
+    color: white;
+    background: red;
+    font-size: 1em;
+    padding: .2em;
+}

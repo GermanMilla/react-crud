@@ -1,0 +1,146 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100115",
+  "assets": [
+    {
+      "asset_basename": "t_100115-1.html",
+      "asset_md5": "0088e3bb3c639fa6b740e2632d13f2d1",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-1",
+          "author_id": "a_000097",
+          "message_subject": "NCH Careers: Application Status Update",
+          "message_body": "Thank you, Amy.\n\n \n\nIt will be my pleasure to participate in the interview process.\n\n \n\nBest,\n\n \n\n[personal_name]",
+          "timestamp": "2024-02-19T14:35:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-2.html",
+      "asset_md5": "e0f79f217fe9bbe06690441c7bc24e92",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-2",
+          "author_id": "a_000097",
+          "message_subject": "Re: [organization_name]: Application Status Update",
+          "message_body": "Good morning, Amy. How are you?\n\n \n\nThe hiring manager called me, and we scheduled an interview for Tuesday at 12:30 PM next week. \n\nHowever, he told me he would email me the location details, which I have not gotten.\n\n \n\nCan you please reach out to see if he sent it?\n\n \n\nThank you,\n\n[personal_name]",
+          "timestamp": "2024-02-22T07:28:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000101"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-3.html",
+      "asset_md5": "f44319ac57e17260c83329d48c959c51",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-3",
+          "author_id": "a_000097",
+          "message_subject": "Re: [organization_name]: Application Status Update",
+          "message_body": "Thank you for the update, Amy.\n\n\n\nCheers,\n\n\nRobert",
+          "timestamp": "2024-02-22T09:26:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000101"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-4.html",
+      "asset_md5": "4e06e6d90b420987d102c8d9db363fbd",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-4",
+          "author_id": "a_000101",
+          "message_subject": "NCH Careers: Application Status Update",
+          "message_body": "Hello,\n\n \n\nHe will be sending the email sometime this week with the details regarding the interview.\n\n \n\nThank you,",
+          "timestamp": "2024-02-22T09:13:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-5.html",
+      "asset_md5": "267eee9d50b72a73822758ce73de7c76",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-5",
+          "author_id": "a_000101",
+          "message_subject": "NCH Careers: Application Status Update",
+          "message_body": "Dear Robert,\n\n \n\nThank you for your interest in [organization_name] and applying to the Medical Staff Data Analyst position. [organization_name] compensation structure is based on years of experience, and I am reaching out to inform you of compensation and benefits package to solidify your interest in the role. Based on your experience, your hourly pay rate would come in around $24-28 per hour if offered this position.\n\nIn addition to the base pay, we offer a robust benefit package. This includes health insurance beginning your first day of employment, tuition reimbursement for both full-time and part-time employees after your introductory 90-day probation period, and our 401(k) program that includes an employer match after one year of employment.\n\nPlease reply to this email to let me know if you are still interested in pursuing this employment opportunity.\n\n \n\nSincerely,\n\n[personal_name]",
+          "timestamp": "2024-02-19T08:05:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-6.html",
+      "asset_md5": "44cdfb076d7e8f0c392a5c5fbb2217fe",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-6",
+          "author_id": "a_000097",
+          "message_subject": "Re: [organization_name]: Application Status Update",
+          "message_body": "Dear Amy,\n\nThank you for providing information about the compensation and benefits package for the Medical Staff Data Analyst position. I appreciate the opportunity to learn more about the role and the organization.\n\nI am still interested in pursuing this employment opportunity with [organization_name] and contributing to the team. Furthermore, I am sending this email to confirm my continued interest in the position.\n\nI'm looking forward to talking more about the details of the role and how I can contribute to the success of [organization_name].\n\nThank you again for considering my application and providing this valuable information.\n\nWarm regards,\n\n[personal_name]",
+          "timestamp": "2024-02-19T13:47:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000101"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100115-7.html",
+      "asset_md5": "ba7fb1569a7c567274d4cd346a7f01b1",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100115-7",
+          "author_id": "a_000101",
+          "message_subject": "NCH Careers: Application Status Update",
+          "message_body": "Hello,\n\n \n\nI went ahead and sent your application to the hiring manager. She will be reaching out to schedule an interview.\n\n \n\nThank you,",
+          "timestamp": "2024-02-19T14:20:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".org"
+        }
+      }
+    }
+  ]
+}

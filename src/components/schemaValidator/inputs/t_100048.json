@@ -1,0 +1,110 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100048",
+  "assets": [
+    {
+      "asset_basename": "t_100048-1.html",
+      "asset_md5": "235646f5cecfabfb29427b78b4c352c8",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100048-1",
+          "author_id": "a_000069",
+          "message_subject": "Hello Brandie, You may NOT find this shop on our website, so make sure you respond to this ema",
+          "message_body": "Hello Brandie, I have a great mystery shop open for you this week at Salt Life in Foley, AL. You MAY NOT see this shop on our website, so contact me if you are interested.\n\nIMPORTANT UPDATE: For this shop, you MUST upload a selfie-style photo, so if you have done this shop before, please review the new instructions before going to any shops this month!\n\nFor this shop, you will go into the store and shop around for beach/swim attire. You will have an interaction with an employee where you will get help finding something to try on in the dressing room. The purpose of this shop is to evaluate the interaction with the employees and the cleanliness of the store, including the dressing room. You do NOT need to make a purchase, but if you do, you will also evaluate the cashier experience.\n\nThis shop pays [financial_data]\n\nPlease respond to this email letting me know what date works for sure, or login and request this shop on our website.\n\nThanks and Take Care ~Amy\n\n\n\n[url]\nContact Us\nYour Shopper ID: [personal_id]\n\n\n\n[personal_name]",
+          "timestamp": "2024-02-12T09:41:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100048-2.html",
+      "asset_md5": "9704ba73db15dc1cb094658042268180",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100048-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: Hello Brandie, You may NOT find this shop on our website, so make sure you respond to this ema",
+          "message_body": "I can do this shop on Wednesday February 14th if that works for you.",
+          "timestamp": "2024-02-12T12:50:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000069"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100048-3.html",
+      "asset_md5": "c2560a01b92bb12fde765d4f71ba8193",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100048-3",
+          "author_id": "a_000069",
+          "message_subject": "Hello Brandie, You may NOT find this shop on our website, so make sure you respond to this ema",
+          "message_body": "HI there!\nThe next open date for this shop is the 16th.  Will that work for you?\n\n\n\t\n\n[personal_name]",
+          "timestamp": "2024-02-12T13:52:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100048-4.html",
+      "asset_md5": "a0b45dc1edb15bf0ae216c96faf6bc16",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100048-4",
+          "author_id": "a_000066",
+          "message_subject": "Re: Hello Brandie, You may NOT find this shop on our website, so make sure you respond to this ema",
+          "message_body": "Yes ma'am it will.  Thank you very much.  I look forward to the shop on the 16th.",
+          "timestamp": "2024-02-12T14:00:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000069"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100048-5.html",
+      "asset_md5": "79496eea28e5c6bb1792a83da08bfac3",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100048-5",
+          "author_id": "a_000069",
+          "message_subject": "Re: Hello Brandie, You may NOT find this shop on our website, so make sure you respond to this ema",
+          "message_body": "Wonderful!  It is assigned to you for the 16th!  I appreciate your help!\n\n\n\n\n\t\n\n[personal_name]",
+          "timestamp": "2024-02-12T14:04:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

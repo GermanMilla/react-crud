@@ -1,0 +1,50 @@
+{
+  "subject_id": "p_10021",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1991
+  },
+  "thread_id": "t_100002",
+  "assets": [
+    {
+      "asset_basename": "t_100002-1.html",
+      "asset_md5": "d9b99c15ca534a132ed58f24f74e7a6c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100002-1",
+          "author_id": "a_000015",
+          "message_subject": "We have updated your inquiry!",
+          "message_body": "Reggie ([organization_name])\n\nFeb 21, 2024, 2:01 PM PST\n\nHello Deletha,\n \nWe're excited to let you know that your reward(s) are on their way to you! We can't wait for you to enjoy the benefits of your hard-earned points. Here are some essential details about the reward delivery process:\n \nDelivery Timeframe: Our aim is to have your rewards delivered to you promptly. In most cases, you can expect to receive your rewards within 3 business days after redemption. We know how eager you are to get your hands on them, and we're working diligently to make that happen.\n \nOccasional Delays: While we strive to ensure swift delivery, there might be instances where it could take up to 10 business days for your rewards to reach you. These cases are rare and usually arise due to factors beyond our control, such as shipping delays or high demand. We want to be transparent and manage your expectations, so you're aware that while we're working hard to expedite the process, there might be occasional delays.\n \nRest assured, your rewards are a priority to us, and we're continuously refining our processes to enhance the delivery experience. We appreciate your understanding and patience in cases where deliveries take a little longer than expected.\n \nIf you have any questions about your rewards or need assistance with anything else, please feel free to reach out to our support team.\n \nThank you for being part of our community and for your enthusiasm about your rewards.\n \nWarm regards,\n\n\n[personal_name]\n\nFeb 20, 2024, 6:20 AM PST\n\nHello when will this be funded ?! Th wait to redeem your own swagbucks is ridiculous hello?? And then no one is answering my emails",
+          "timestamp": "2024-02-21T16:01:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100002-2.html",
+      "asset_md5": "fbcc7c2516dfdafe1ca8df7e01703f49",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100002-2",
+          "author_id": "a_000013",
+          "message_subject": "Re: We have updated your inquiry!",
+          "message_body": "Thank you for replying I have been a pain in yalls butt I know but I was depending on this for my daughters bday is tomorrow and money is extremely tight thank you for the update",
+          "timestamp": "2024-02-21T16:05:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000016"
+          ]
+        }
+      }
+    }
+  ]
+}

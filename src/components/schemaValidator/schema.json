@@ -1,0 +1,191 @@
+{
+    "type": "object",
+    "additionalProperties": false,
+    "minProperties": 1,
+    "properties": {
+        "subject_id": {
+            "type": "string",
+            "pattern": "^[a-zA-Z\\d][a-zA-Z-_\\d]*$",
+            "error": "first character must be a letter, the rest of the string can be letters or numbers."
+        },
+        "contribution_date": {
+            "type": "integer",
+            "minimum": 20240101
+        },
+        "contributor_info": {
+            "type": "object",
+            "additionalProperties": false,
+            "minProperties": 1,
+            "properties": {
+                "year_of_birth": {
+                    "type": "integer",
+                    "minimum": 1905,
+                    "maximum": 2006
+                },
+                "gender": {
+                    "enum": [
+                        "male",
+                        "non_binary",
+                        "unlisted",
+                        "female"
+                    ]
+                }
+            },
+            "required": [
+                "year_of_birth",
+                "gender"
+            ]
+        },
+        "assets": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "minProperties": 1,
+                "properties": {
+                    "asset_basename": {
+                        "type": "string",
+                        "pattern": "^[a-zA-Z\\d_-]{1,180}\\.([a-zA-Z\\d]{1,9})$",
+                        "error": "must be letters, numbers, '_', '-'. Only one '.'. Extension must be 1 or 9 letters or numbers."
+                    },
+                    "asset_md5": {
+                        "type": "string",
+                        "pattern": "^[a-f\\d]{32}$",
+                        "error": "must be 32 lowercase numbers and letters a through f"
+                    },
+                    "asset_metadata": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "minProperties": 1,
+                        "properties": {
+                            "additional": {
+                                "type": "object",
+                                "additionalProperties": false,
+                                "minProperties": 1,
+                                "properties": {
+                                    "message_id": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "author_id": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "message_subject": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "message_body": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "timestamp": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "in_reply_to": {
+                                        "type": "string",
+                                        "minLength": 1
+                                    },
+                                    "to": {
+                                        "type": "array",
+                                        "uniqueItems": false,
+                                        "items": {
+                                            "type": "string",
+                                            "minLength": 1
+                                        },
+                                        "minItems": 1
+                                    },
+                                    "cc": {
+                                        "type": "array",
+                                        "uniqueItems": false,
+                                        "items": {
+                                            "type": "string",
+                                            "minLength": 1
+                                        },
+                                        "minItems": 1
+                                    },
+                                    "top_email_domain": {
+                                        "type": "string",
+                                        "pattern": "\\.[\\w]+",
+                                        "error": "Domain invalid, needs to start with a period (.), followed by letters"
+                                    },
+                                    "locale": {
+                                        "enum": [
+                                            "BG",
+                                            "BR",
+                                            "CA",
+                                            "CO",
+                                            "EG",
+                                            "ES",
+                                            "FI",
+                                            "GB",
+                                            "GT",
+                                            "IE",
+                                            "IN",
+                                            "MA",
+                                            "MX",
+                                            "NG",
+                                            "PH",
+                                            "PL",
+                                            "PT",
+                                            "TW",
+                                            "US"
+                                        ]
+                                    },
+                                    "esl": {
+                                        "type": "boolean"
+                                    },
+                                    "multiple_languages": {
+                                        "type": "boolean"
+                                    },
+                                    "category": {
+                                        "enum": [
+                                            "business-professional",
+                                            "professional-updates-notifications",
+                                            "professional-networking",
+                                            "personal",
+                                            "nsfw"
+                                        ]
+                                    }
+                                },
+                                "required": [
+                                    "message_id",
+                                    "author_id",
+                                    "message_subject",
+                                    "message_body",
+                                    "timestamp",
+                                    "locale",
+                                    "esl",
+                                    "multiple_languages",
+                                    "category"
+                                ]
+                            }
+                        },
+                        "required": [
+                            "additional"
+                        ]
+                    }
+                },
+                "required": [
+                    "asset_basename",
+                    "asset_md5",
+                    "asset_metadata"
+                ]
+            },
+            "minItems": 1
+        },
+        "thread_id": {
+            "type": "string",
+            "minLength": 1
+        }
+    },
+    "required": [
+        "subject_id",
+        "contribution_date",
+        "contributor_info",
+        "assets",
+        "thread_id"
+    ]
+}

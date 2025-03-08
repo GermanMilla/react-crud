@@ -1,0 +1,53 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100064",
+  "assets": [
+    {
+      "asset_basename": "t_100064-1.html",
+      "asset_md5": "f996d2570173fecfd86a29165d93462f",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100064-1",
+          "author_id": "a_000085",
+          "message_subject": "Re: May Honors Newsletter: Could a graduate degree be in your future?",
+          "message_body": "So proud of you",
+          "timestamp": "2023-05-01T21:39:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100064-2.html",
+      "asset_md5": "d81cc593ecbc5053ae713240aa67b1af",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100064-2",
+          "author_id": "a_000086",
+          "message_subject": "May Honors Newsletter: Could a graduate degree be in your future?",
+          "message_body": "May Newsletter\nH O N O R S   P R O G R A M\n \n\n\nHi Brandie,\n\n\nCould a graduate degree be in your future? If you're curious about pursuing a graduate degree, join us on May 22nd to learn more about the [organization_name] graduate experience and the Accelerate program. Find the details at the end of this newsletter.\n\n\nAlso this month, the Leadership club will meet and we will celebrate students who are on the winter honors lists. We hope to see you around!\n\n\nIf you're interested in an event, please register now and mark your calendar! We created this newsletter to reduce the number of emails we send; we won't send additional reminders unless an event is invitation only.\n\n\n\nCareer Events\n\n\nCareer Center webinars this month include topics such as [organization_name], networking, job searching, and interviewing. Click the Career Center Events button below for the calendar and to register for individual events. The first event is on May 4th.\n\n\n[url]\n\n\nHonors Leadership Club\nMONDAY, MAY 8  |  8 P.M. ET\n\n\nLearn about fostering innovative, high performing, and diverse work environments.\n\n\n[url]\n\n\nWinter 2023 Dean's List & Honor Roll Celebration\nTUESDAY, MAY 16  |  7 P.M. ET\n\n\nA virtual celebration to recognize students who earned Dean's List or Honor Roll recognition in the Winter 2023 quarter. Email invitations will be sent to eligible students.\n\n\n[url]\n\n\nWinter 2023 President's List Celebration\nWEDNESDAY, MAY 17  |  7 P.M. ET\n\n\nA virtual celebration to recognize students who earned President's List recognition in the Winter 2023 quarter. Email invitations will be sent to eligible students.\n\n\n[url]\n\n\nThe [organization_name] Graduate Program Experience\nMONDAY, MAY 22  |  7 P.M. ET\n\n\nHave you considered what's next for you after you complete your bachelor's degree? If a graduate degree could be in your future, come learn about [organization_name] graduate programs, the graduate student experience, and how the Accelerate program may help you to take graduate classes as part of your undergraduate program. We'll also share tools to help you explore whether a grad degree is a good fit for you. It's never too early to start thinking about your next move! \n\n\n[url]\n\n\n\n\n\nYou can also find these events posted in iCampus. Honors-only events are posted in the [url] and all [organization_name] events are posted [url]. Be sure to [url] as we may send text message reminders to event registrants.",
+          "timestamp": "2023-05-01T07:37:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".edu",
+          "to": [
+            "a_000066"
+          ]
+        }
+      }
+    }
+  ]
+}

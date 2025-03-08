@@ -1,0 +1,86 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240404,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100035",
+  "assets": [
+    {
+      "asset_basename": "t_100035-1.html",
+      "asset_md5": "5c3998903787baf81366540b418830ab",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100035-1",
+          "author_id": "a_000065",
+          "message_subject": "Payroll Setup",
+          "message_body": "Dear Brandie,\n\n \n\nWe are ready to get started on your payroll set up.  In reviewing the information provided to date for your payroll, we have the following open items that we need for you to please address:\n\n \n\n1.       Bank routing and account number of account to be used to pay employees, employer taxes, and pay direct deposit fees.\n\n2.       Types of compensation provide to your employees (salaried wages, hourly wages, bonuses, tips).\n\n3.       Types of benefits provided to employees (health insurance, dental insurance, 401k retirement plan, vacation/sick leave, flexible spending account).\n\n4.       Payroll Schedule including start date of pay period, end date of pay period, payroll check date.\n\n5.       Provide the date of the first requested payroll.\n\n6.       Each of the employees will need to complete the W-4 and A-4.  They are attached to this email.\n\n                                                               i.      Fax the W-4 and A-4 for each employee to us.\n\n                                                             ii.      Retain all for your records.\n\n7.       Provide the hourly pay rate and hire date of each employee.\n\n8.       Direct deposit information, if you are offering direct deposit (see attached).\n\n \n\nPlease note the following additional items that you need to be aware from a human resource standpoint that are not completed by [organization_name], P.C. If you have any questions on any of the below items, we are happy to assist you in any way that we can.\n\n \n\nAlabama New Hire Reporting [url]\nAlabama E-verify [url]\nForm I-9 – it’s attached to this email\n\n \n\n \n\n \n\n[personal_name]",
+          "timestamp": "2020-01-13T15:23:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100035-2.html",
+      "asset_md5": "ec178429ec7494baca930c18834ad981",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100035-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: Payroll Setup",
+          "message_body": "0620xxxxx sorry I didn’t realize they didn’t show up while typing",
+          "timestamp": "2020-01-13T15:59:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000065"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100035-3.html",
+      "asset_md5": "b873f4e54f5122ac1f0456f179bffb32",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100035-3",
+          "author_id": "a_000065",
+          "message_subject": "Payroll Setup",
+          "message_body": "Thanks for letting me know.  I will need to get the company’s bank routing number and account number to set up the payroll tax accounts online.  You can send a voided check by email if that would be easiest.  I assume I will not be doing a direct deposit but just sending you a pay stub so you’ll know how to cut the check?\n\n \n\nThanks,\n\n \n\n \n\n[personal_name]",
+          "timestamp": "2020-01-13T15:54:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100035-4.html",
+      "asset_md5": "7be734846cab937c938150f282b26137",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100035-4",
+          "author_id": "a_000066",
+          "message_subject": "Payroll Setup",
+          "message_body": "062xxxx is routing number\n0268xxxxxx is account number",
+          "timestamp": "2020-01-13T15:55:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    }
+  ]
+}

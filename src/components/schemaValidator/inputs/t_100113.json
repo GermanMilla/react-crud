@@ -1,0 +1,95 @@
+{
+  "subject_id": "p_10065",
+  "contribution_date": 20240406,
+  "contributor_info": {
+    "gender": "male",
+    "year_of_birth": 1985
+  },
+  "thread_id": "t_100113",
+  "assets": [
+    {
+      "asset_basename": "t_100113-1.html",
+      "asset_md5": "1ccca383d4c0ee360393ce01289d9348",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100113-1",
+          "author_id": "a_000098",
+          "message_subject": "Budget Dashboards - Call Thus Dec 14",
+          "message_body": "Robert - are you available for a zoom next Weds Thursday with our accounting team? They have some familiarity with Tableau so they should be able to help with extracting the data from QB.\n\n \n\nLet us know what works for you.",
+          "timestamp": "2023-12-06T11:44:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".partners"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100113-2.html",
+      "asset_md5": "ce8f5b599354885fa212e22fd9e07a71",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100113-2",
+          "author_id": "a_000097",
+          "message_subject": "Re: Budget Dashboards - Call Thus Dec 14",
+          "message_body": "Hi Andrew.\n\nSure, what time? \n\n \n\nBest,\n\nRobert",
+          "timestamp": "2023-12-06T13:48:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000098"
+          ],
+          "cc": [
+            "a_000099"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100113-3.html",
+      "asset_md5": "bbf8ec0968ab88b4b0215365b3050d12",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100113-3",
+          "author_id": "a_000097",
+          "message_subject": "Re: Budget Dashboards - Call Thus Dec 14",
+          "message_body": "Hi Richard,\n\n\nThat works for me. Talk to you on Thursday.\n\n\n\nBest,\nRobert",
+          "timestamp": "2023-12-06T15:21:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000099"
+          ],
+          "cc": [
+            "a_000098"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100113-4.html",
+      "asset_md5": "2aa675f29c2108b714c3fcf9ff451664",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100113-4",
+          "author_id": "a_000099",
+          "message_subject": "Budget Dashboards - Call Thus Dec 14",
+          "message_body": "Robert, \n\n \n\nHow about 1:00 pm on Thursday.  If that doesn’t work, please suggest a time.  The only times that really won’t work are 8:00 am to 10:00 am.\n\n \n\nThanks,\n\n\nRichard",
+          "timestamp": "2023-12-06T13:52:00",
+          "locale": "US",
+          "esl": true,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".partners"
+        }
+      }
+    }
+  ]
+}

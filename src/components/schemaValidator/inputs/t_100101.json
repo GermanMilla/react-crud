@@ -1,0 +1,125 @@
+{
+  "subject_id": "p_10015",
+  "contribution_date": 20240405,
+  "contributor_info": {
+    "gender": "female",
+    "year_of_birth": 1980
+  },
+  "thread_id": "t_100101",
+  "assets": [
+    {
+      "asset_basename": "t_100101-1.html",
+      "asset_md5": "b76abe9ef3376f4d2bb49642b59a2464",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-1",
+          "author_id": "a_000090",
+          "message_subject": "Re: Shops Past Due - Please Respond",
+          "message_body": "Hi Brandie,\n\n \n\nOur records show that you have [pii] past due for [organization_name].  It is crucial that we receive assigned shops by the due date given to ensure our clients receive their results on time.\n\n \n\nPlease contact me immediately ([email_address]) to schedule an extension or to cancel.  As long as I hear from you within 24 hours, I will be happy to accommodate your requests – extension or cancellation. However, if you do not respond to this email and we have to cancel your shop, a citation will be added to your shopper profile. I appreciate your work; however, timeliness and responsiveness are imperative to our success and yours.\n\n \n\nThank you,\n\n \n\n[personal_name]",
+          "timestamp": "2024-04-01T08:37:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100101-2.html",
+      "asset_md5": "881272ed8dc43167e9fa677fb871c5d4",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-2",
+          "author_id": "a_000066",
+          "message_subject": "Re: Shops Past Due - Please Respond",
+          "message_body": "Hi.  I apologize.  I have been in the hospital.  I was released late [pii] afternoon.  I will complete the shop and have all the requirements turned in by close of business day tomorrow, if that is acceptable with you.  \n\nThank you,\n\n[personal_name]",
+          "timestamp": "2024-04-01T11:07:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000090"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100101-3.html",
+      "asset_md5": "eac6e884f09b748fa9c959e3e5d4cf88",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-3",
+          "author_id": "a_000066",
+          "message_subject": "Re: Shops Past Due - Please Respond",
+          "message_body": "Visit completed proof and questionnaire will be submitted shortly.  \nThank you.",
+          "timestamp": "2024-04-04T14:26:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com\n"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100101-4.html",
+      "asset_md5": "8658ba720a7c1b48dd7b288845227f20",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-4",
+          "author_id": "a_000090",
+          "message_subject": "Re: Shops Past Due - Please Respond",
+          "message_body": "Can you do it by 4/5?",
+          "timestamp": "2024-04-02T08:41:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com"
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100101-5.html",
+      "asset_md5": "87a3bc8e01ee1cc0aac61a3dcb564d3c",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-5",
+          "author_id": "a_000066",
+          "message_subject": "Re: Shops Past Due - Please Respond",
+          "message_body": "Yes I can.",
+          "timestamp": "2024-04-02T13:41:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com",
+          "to": [
+            "a_000090"
+          ]
+        }
+      }
+    },
+    {
+      "asset_basename": "t_100101-6.html",
+      "asset_md5": "404fcbab811e334fe7e3640ba6335f28",
+      "asset_metadata": {
+        "additional": {
+          "message_id": "t_100101-6",
+          "author_id": "a_000090",
+          "message_subject": "RE: Shops Past Due - Please Respond",
+          "message_body": "Thank you.",
+          "timestamp": "2024-04-03T07:57:00",
+          "locale": "US",
+          "esl": false,
+          "multiple_languages": false,
+          "category": "business-professional",
+          "top_email_domain": ".com\n"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <title>
+    </title>
+    <style>
+        body {
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p {
+            margin: 0pt
+        }
+
+        li {
+            margin-top: 0pt;
+            margin-bottom: 0pt
+        }
+
+        h1,
+        .CROMSHeading1,
+        .Title1 {
+            margin-top: 10pt;
+            margin-left: 21.6pt;
+            text-indent: -21.6pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border: 3pt solid #4f81bd;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            color: #ffffff;
+            background-color: #4f81bd
+        }
+
+        h2,
+        .CROMSHeading2 {
+            margin-top: 10pt;
+            margin-left: 28.8pt;
+            text-indent: -28.8pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border: 3pt solid #dbe5f1;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            color: #000000;
+            background-color: #dbe5f1
+        }
+
+        h3,
+        .CROMSHeading3 {
+            margin-top: 15pt;
+            margin-left: 36pt;
+            text-indent: -36pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border-top: 0.75pt solid #4f81bd;
+            border-left: 0.75pt solid #4f81bd;
+            padding-top: 2pt;
+            padding-left: 2pt;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            color: #243f60
+        }
+
+        h4,
+        .CROMSHeading4 {
+            margin-top: 15pt;
+            margin-left: 43.2pt;
+            text-indent: -43.2pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border-top: 0.75pt dotted #4f81bd;
+            border-left: 0.75pt dotted #4f81bd;
+            padding-top: 2pt;
+            padding-left: 2pt;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            font-style: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        h5,
+        .CROMSHeading5 {
+            margin-top: 15pt;
+            margin-left: 50.4pt;
+            text-indent: -50.4pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border-bottom: 0.75pt solid #4f81bd;
+            padding-bottom: 1pt;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        h6,
+        .CROMSHeading6 {
+            margin-top: 15pt;
+            margin-left: 57.6pt;
+            text-indent: -57.6pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            border-bottom: 0.75pt dotted #4f81bd;
+            padding-bottom: 1pt;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        .Heading7,
+        .CROMSHeading7 {
+            margin-top: 15pt;
+            margin-left: 64.8pt;
+            text-indent: -64.8pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            font-family: Cambria;
+            font-size: 11pt;
+            font-weight: normal;
+            font-style: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        .Heading8,
+        .CROMSHeading8 {
+            margin-top: 15pt;
+            margin-left: 72pt;
+            text-indent: -72pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            font-family: Cambria;
+            font-size: 9pt;
+            font-weight: normal;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #000000
+        }
+
+        .Heading9,
+        .CROMSHeading9 {
+            margin-top: 15pt;
+            margin-left: 79.2pt;
+            text-indent: -79.2pt;
+            page-break-inside: auto;
+            page-break-after: auto;
+            line-height: 115%;
+            font-family: Cambria;
+            font-size: 9pt;
+            font-weight: normal;
+            font-style: italic;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #000000
+        }
+
+        .BalloonText {
+            font-family: 'Lucida Grande';
+            font-size: 9pt
+        }
+
+        .BodyA {
+            font-family: Cambria;
+            font-size: 12pt;
+            color: #000000
+        }
+
+        .BodyText {
+            margin-bottom: 9pt;
+            line-height: 13pt;
+            font-family: Cambria;
+            font-size: 11pt
+        }
+
+        .CROMSInstruction {
+            margin-top: 6pt;
+            margin-bottom: 6pt;
+            line-height: normal;
+            font-family: Arial;
+            font-size: 12pt;
+            font-style: italic;
+            color: #1f497d
+        }
+
+        .CROMSInstructionalTextBullets {
+            margin-top: 6pt;
+            margin-left: 36pt;
+            margin-bottom: 6pt;
+            text-indent: -18pt;
+            line-height: normal;
+            font-family: Arial;
+            font-size: 12pt;
+            font-style: italic;
+            color: #1f497d
+        }
+
+        .CROMSTextBullet {
+            margin-top: 0pt;
+            margin-left: 36pt;
+            margin-bottom: 6pt;
+            text-indent: -18pt;
+            line-height: 114%;
+            font-family: Arial;
+            font-size: 12pt
+        }
+
+        .CommentSubject {
+            font-family: 'Times New Roman';
+            font-size: 10pt;
+            font-weight: bold
+        }
+
+        .CommentText {
+            font-family: 'Times New Roman';
+            font-size: 12pt
+        }
+
+        .DefaultChar {
+            font-family: 'Times New Roman';
+            font-size: 12pt;
+            color: #000000
+        }
+
+        .Footer {
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        .FootnoteText {
+            font-family: 'Times New Roman';
+            font-size: 10pt
+        }
+
+        .Header {
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        .Heading21 {
+            margin-top: 12pt;
+            margin-bottom: 3pt;
+            page-break-after: avoid;
+            font-family: 'Arial Bold Italic';
+            font-size: 14pt;
+            color: #000000
+        }
+
+        .ListBullet {
+            margin-top: 10pt;
+            margin-bottom: 10pt;
+            line-height: 115%;
+            font-family: Cambria;
+            font-size: 10pt
+        }
+
+        .ListParagraph {
+            margin-left: 36pt;
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        .NormalWeb {
+            font-family: Times;
+            font-size: 10pt
+        }
+
+        .Revision {
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        .TitleA {
+            margin-right: 1.8pt;
+            text-align: center;
+            line-height: 13pt;
+            font-family: 'Arial Bold';
+            font-size: 12pt;
+            color: #000000
+        }
+
+        span.BalloonTextChar {
+            font-family: 'Lucida Grande';
+            font-size: 9pt
+        }
+
+        span.BodyTextChar {
+            font-size: 11pt
+        }
+
+        span.CommentReference {
+            font-size: 9pt
+        }
+
+        span.CommentSubjectChar {
+            font-family: 'Times New Roman';
+            font-size: 10pt;
+            font-weight: bold
+        }
+
+        span.CommentTextChar {
+            font-family: 'Times New Roman'
+        }
+
+        span.FollowedHyperlink {
+            text-decoration: underline;
+            color: #800080
+        }
+
+        span.FooterChar {
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        span.FootnoteReference {
+            vertical-align: super
+        }
+
+        span.FootnoteTextChar {
+            font-family: 'Times New Roman';
+            font-size: 10pt
+        }
+
+        span.HeaderChar {
+            font-family: 'Times New Roman';
+            font-size: 11pt
+        }
+
+        span.Heading1Char,
+        span.CROMSHeading1Char,
+        span.Title1Char {
+            font-size: 11pt;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            color: #ffffff;
+            background-color: #4f81bd
+        }
+
+        span.Heading2Char,
+        span.CROMSHeading2Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            background-color: #dbe5f1
+        }
+
+        span.Heading3Char,
+        span.CROMSHeading3Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.75pt;
+            color: #243f60
+        }
+
+        span.Heading4Char,
+        span.CROMSHeading4Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        span.Heading5Char,
+        span.CROMSHeading5Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        span.Heading6Char,
+        span.CROMSHeading6Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        span.Heading7Char,
+        span.CROMSHeading7Char {
+            font-size: 11pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt;
+            color: #365f91
+        }
+
+        span.Heading8Char,
+        span.CROMSHeading8Char {
+            font-size: 9pt;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt
+        }
+
+        span.Heading9Char,
+        span.CROMSHeading9Char {
+            font-size: 9pt;
+            font-style: italic;
+            text-transform: uppercase;
+            letter-spacing: 0.5pt
+        }
+
+        span.Hyperlink {
+            text-decoration: underline;
+            color: #0000ff
+        }
+
+        span.Hyperlink1 {
+            font-size: 10pt;
+            font-weight: normal;
+            text-decoration: underline;
+            color: #0000ff
+        }
+
+        span.Strong {
+            font-weight: bold
+        }
+
+        span.UnresolvedMention {
+            color: #605e5c;
+            background-color: #e1dfdd
+        }
+
+        .ImportedStyle4 {
+            margin-left: 18pt;
+            text-indent: -18pt
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div style="clear:both">
+            <p class="Header" style="font-size:10pt">
+                <span style="width:216pt; font-family:'Myriad Set Text'; display:inline-block">&#xa0;</span><span
+                    style="width:216pt; font-family:'Myriad Set Text'; display:inline-block">&#xa0;</span>
+            </p>
+        </div>
+        <p style="text-align:center; line-height:14.55pt">
+            <strong><span style="font-family:'SF Hello'; letter-spacing:-0.6pt">STUDY INFORMED CONSENT
+                    FORM</span></strong>
+        </p>
+        <p style="text-align:center; line-height:14.55pt">
+            <strong><span style="font-family:'SF Hello'; letter-spacing:-0.6pt">Study
+                    Title:</span></strong><strong><span style="font-family:'SF Hello'; letter-spacing:0.3pt">
+                </span></strong><span style="font-family:'SF Hello'; letter-spacing:0.3pt">Head, Face and
+                Hands</span><em><span style="font-family:'SF Hello'; letter-spacing:-0.6pt"> (“</span></em><strong><span
+                    style="font-family:'SF Hello'; letter-spacing:-0.6pt">Study</span></strong><em><span
+                    style="font-family:'SF Hello'; letter-spacing:-0.6pt">”)</span></em>
+        </p>
+        <p style="text-align:center; line-height:14.55pt">
+            <strong><span style="font-family:'SF Hello'; letter-spacing:-0.6pt">Study Lead:</span></strong><span
+                style="font-family:'SF Hello'; letter-spacing:-0.6pt"> Pei-Ta Chu, <a href="mailto:peita@apple.com"
+                    target="_blank">peita@apple.com</a></span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You are receiving this Study Informed Consent Form
+                (“</span><strong><span style="font-family:'SF Hello'; ">Consent</span></strong><span
+                style="font-family:'SF Hello'">”) because you were asked to participate in a voluntary research Study
+                run by TELUS International, AI (“</span><strong><span style="font-family:'SF Hello'; ">Study
+                    Organizer</span></strong><span style="font-family:'SF Hello'">”) on behalf of Apple Inc. (the
+                “</span><strong><span style="font-family:'SF Hello'; ">Study Sponsor</span></strong><span
+                style="font-family:'SF Hello'">”).</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'; color:#00b050">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p style="margin-bottom:6pt">
+            <span style="font-family:'SF Hello'">This Consent will tell you the following about this Study:</span>
+        </p>
+        <p style="margin-left:27pt; margin-bottom:6pt; text-indent:-18pt">
+            <span style="font-family:'SF Hello'">(1)</span><span
+                style="width:4.01pt; text-indent:0pt; font-family:'SF Hello'; display:inline-block">&#xa0;</span><span
+                style="font-family:'SF Hello'">Its purpose and what you will be asked to do; </span>
+        </p>
+        <p style="margin-left:27pt; margin-bottom:6pt; text-indent:-18pt">
+            <span style="font-family:'SF Hello'">(2)</span><span
+                style="width:4.01pt; text-indent:0pt; font-family:'SF Hello'; display:inline-block">&#xa0;</span><span
+                style="font-family:'SF Hello'">The information that may be collected from you and how it will be used or
+                disclosed; </span>
+        </p>
+        <p style="margin-left:27pt; margin-bottom:6pt; text-indent:-18pt">
+            <span style="font-family:'SF Hello'">(3)</span><span
+                style="width:4.01pt; text-indent:0pt; font-family:'SF Hello'; display:inline-block">&#xa0;</span><span
+                style="font-family:'SF Hello'">Potential risks and discomforts;</span>
+        </p>
+        <p style="margin-left:27pt; margin-bottom:6pt; text-indent:-18pt">
+            <span style="font-family:'SF Hello'">(4)</span><span
+                style="width:4.01pt; text-indent:0pt; font-family:'SF Hello'; display:inline-block">&#xa0;</span><span
+                style="font-family:'SF Hello'">Your confidentiality obligations if you decide to take part in the Study;
+                and</span>
+        </p>
+        <p style="margin-left:27pt; text-indent:-18pt">
+            <span style="font-family:'SF Hello'">(5)</span><span
+                style="width:4.01pt; text-indent:0pt; font-family:'SF Hello'; display:inline-block">&#xa0;</span><span
+                style="font-family:'SF Hello'">How you may stop being in the Study and what happens to your information
+                after you stop. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; text-transform:uppercase">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; text-transform:uppercase">Please read this Consent carefully
+                    and Ask Any Questions you have about the study before signing THIS FORM. </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Your decision to take part in this Study is completely
+                    voluntary and you can decide not to participate or stop participating at any
+                    time</span></strong><span style="font-family:'SF Hello'">. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHY IS THIS STUDY BEING DONE? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The purpose of this Study is to collect photos, videos and audios of
+                individuals’ head, face and hands in still and moving poses, under various lighting conditions inside of
+                a photogrammetry light stage. The data collected in this Study may be used to develop and improve
+                products and services, which could include technologies and algorithms that operate on an iPhone and
+                other related products and for the purposes set forth in this Consent. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHAT WILL I BE ASKED TO DO? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You will be invited to 1 or more study sessions to complete the
+                following capture sequences. A member of the Sponsor’s team conducting the Study (“</span><strong><span
+                    style="font-family:'SF Hello'; ">Study Team</span></strong><span style="font-family:'SF Hello'">”)
+                will walk you through the all or part of the Study procedures listed below that are specific to the
+                study session.</span>
+        </p>
+        <p>
+            <em><span style="font-family:'SF Hello'; ">&#xa0;</span></em>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">IPD Measurements (5 minutes)</span></strong>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be seated at a table with the moderator seating across
+                    from you.</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be instructed on how to hold and position the pupillometer
+                    device (a device for measuring the distance between the right and left eye’s pupil).</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">While you are looking through the pupillometer, the moderator will
+                    look through the opposite end of the pupillometer, make adjustments and take record IPD
+                    measurements.</span>
+            </li>
+        </ul>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Face Capture Sequence (10 minutes)</span></strong>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be seated inside of a dynamic lighting rig and instructed
+                    to perform 6 to 10 head movements while being recorded with a recording device. Head movements
+                    involve turning your head side to side, and tilting up and down, and rotating it in a circular
+                    pattern. Each head movement will take 30 seconds.</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Optionally, you may be asked to wear study-provided or
+                    self-provided glasses, headwear, and earbuds / headphones in one or more capture sequences.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Head Capture Sequence (normal clothing, no wig cap) (20
+                    minutes)</span></strong>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be seated inside of a photogrammetry light stage and
+                    instructed to perform 10 to 15 facial expressions. For each expression, multiple cameras are
+                    capturing images of your head and face with dynamic lighting conditions. Each image capture for the
+                    facial expressions will take 3 seconds.</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be instructed to read a short paragraph of words
+                    (pangram), available in different languages, while audio and video of you are being recorded. There
+                    are 3-5 of these capture sequences and each will take 10 seconds.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Head Capture Sequence (wide collar T-shirt and wig cap) (40
+                    minutes)</span></strong>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be provided a wide collar T-shirt and a wig cap and access
+                    to a change room to prepare for the next capture sequence.</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be seated inside of a photogrammetry light stage and
+                    instructed to perform 25 to 30 facial expressions. For each expression, multiple cameras are
+                    capturing images of your head and face with dynamic lighting conditions. Each image capture for the
+                    facial expressions will take 3 seconds.</span>
+            </li>
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be instructed to read a short paragraph of words
+                    (pangram), available in different languages, while audio and video of you are being recorded. There
+                    are 3-5 of these capture sequences and each will take 10 seconds.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Hands Capture Sequence (wide collar T-shirt and wig cap) (15
+                    minutes)</span></strong>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You will be instructed to hold your hand in front of your face for
+                    a static pose photo capture, and 2 to 4 poses and photos will be taken for each hand with slight
+                    variation in position and fingers gesture.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The Study team will use the video and photo images to generate a
+                photo-realistic 3D model of your face and head that will be considered part of the Study Data (see
+                below).</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHERE IS THIS STUDY BEING DONE? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">2800 Casitas Ave, Los Angeles, CA 90039</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">HOW MANY PEOPLE WILL BE IN THIS STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">This Study is targeting enrollment of at least 5000
+                participants.</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">HOW LONG WILL I BE IN THIS STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">1 session lasting approximately 1 hour and 15 minutes</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHO CAN PARTICIPATE IN THIS STUDY?</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">Before starting this Study, you must meet all the following criteria:
+            </span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li style="margin-left:46.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Be willing and able to participate in the Study procedures
+                    described in this Consent.</span>
+            </li>
+            <li style="margin-left:46.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Be able to communicate effectively with and follow instructions
+                    from the Study Team.</span>
+            </li>
+            <li style="margin-left:46.52pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">You must be between the age of 13 and 75 years old.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You may not participate in this Study if you</span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="CROMSTextBullet"
+                style="margin-left:46.52pt; margin-bottom:0pt; text-indent:0pt; line-height:normal; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Are pregnant.</span>
+            </li>
+            <li class="CROMSTextBullet"
+                style="margin-left:46.52pt; margin-bottom:0pt; text-indent:0pt; line-height:normal; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Have a diagnosis of photo-induced seizures or epilepsy.</span>
+            </li>
+            <li class="CROMSTextBullet"
+                style="margin-left:46.52pt; text-indent:0pt; padding-left:7.48pt; font-family:serif">
+                <span style="font-family:'SF Hello'">Are currently taking photosensitizing medications or have any known
+                    photosensitizing medical conditions. </span>
+            </li>
+        </ul>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHAT ARE THE POSSIBLE RISKS OR DISCOMFORTS? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">No significant risks or permanent side effects are anticipated.
+                However, you may experience slight to moderate discomfort associated with bright and flashing lights
+                during the photo / video recording.</span>
+        </p>
+        <p style="margin-top:14pt; margin-bottom:14pt">
+            <span style="font-family:'SF Hello'">There may be risks that we do not know about. The Study Team will tell
+                you about any new information that relates to the Study that may affect your decision to stay in the
+                Study. </span><strong><span style="font-family:'SF Hello'; ">If you experience any pain, discomfort,
+                    side effects, or believe that you have been injured as a result of the Study, </span></strong><span
+                style="font-family:'SF Hello'">you should seek necessary medical care and notify the Study Lead as soon
+                as possible.</span><strong><span style="font-family:'SF Hello'; "> </span></strong>
+        </p>
+        <p style="margin-top:14pt; margin-bottom:14pt">
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p style="margin-top:14pt; margin-bottom:14pt">
+            <strong><span style="font-family:'SF Hello'; ">WHAT HAPPENS IF I AM INJURED BECAUSE OF THE
+                    STUDY?</span></strong><span style="font-family:'SF Hello'"> </span>
+        </p>
+        <p style="margin-top:14pt; margin-bottom:14pt">
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p style="margin-top:14pt; margin-bottom:14pt">
+            <span style="font-family:'SF Hello'">We will make reasonable efforts to prevent you from being injured as a
+                result of this Study. If we determine that you followed the directions of the Study Team and still got
+                sick or hurt as a direct result of a Study procedure, device, or test, you will be reimbursed for the
+                medically necessary care for your injuries. Payments for other expenses (such as time-off work, lost
+                wages, child-care, etc.) will not be offered through the Study. You do not give up any legal rights by
+                signing this form. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">To pay medical expenses, Study Sponsor and its designee may need to
+                know some information about you like your name, date of birth, social security number, copies of bills
+                and applicable medical records, and (if applicable) Medicare Beneficiary Identifier (MBI). Study Sponsor
+                or its designee may check to see if you receive coverage under Medicare or another governmental
+                insurance plan and, if you do, report the payment as required by law.</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHAT DATA WILL BE COLLECTED AND HOW LONG WILL IT BE KEPT?
+                </span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p style="margin-bottom:3pt">
+            <span style="font-family:'SF Hello'">As part of this Study, the following data may be collected or accessed
+                (collectively, “</span><strong><span style="font-family:'SF Hello'; ">Study Data</span></strong><span
+                style="font-family:'SF Hello'">”): </span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="ListParagraph"
+                style="margin-left:28.06pt; margin-bottom:3pt; padding-left:7.94pt; font-family:serif">
+                <strong><span style="font-family:'SF Hello'; font-size:12pt; ">Contact Information</span></strong><span
+                    style="font-family:'SF Hello'; font-size:12pt">: Name, email address, Apple ID. This information
+                    will be collected during Study recruitment. Your Contact Information will be deleted within five
+                    years after the Study ends.</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:28.52pt; margin-bottom:3pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <strong><span style="font-family:'SF Hello'; ">Demographic Data</span></strong><span
+                    style="font-family:'SF Hello'">: Age, gender, ethnicity, height, weight, hair color, hair texture,
+                    eye color, skin tone. This information, some of which may be sensitive personal information, will be
+                    collected by the Study Team during Study onboarding in order to assess the impact of this
+                    Demographic Data on the design, development, and/or use of the Study device. Your Coded Demographic
+                    Data may be retained as long as necessary for the purposes described in this
+                    Consent.</span><em><span style="font-family:'SF Hello'; "> </span></em>
+            </li>
+            <li class="ListParagraph" style="margin-left:28.06pt; padding-left:7.94pt; font-family:serif">
+                <strong><span style="font-family:'SF Hello'; font-size:12pt; ">Photo/Video/Audio: </span></strong><span
+                    style="font-family:'SF Hello'">Photos and videos of your head, face and hands, and speech audio
+                    data; in addition, the Study team will use the video and photo images to generate a photo-realistic
+                    3D model of your face and head that will be considered part of the Study Data and your
+                    Photo/Video/Audio data. Your Coded Photo/Video/Audio, including the 3D model, will be deleted within
+                    5 years after the Study ends.</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:28.06pt; margin-bottom:3pt; padding-left:7.94pt; font-family:serif">
+                <strong><span style="font-family:'SF Hello'; font-size:12pt; ">Biometric
+                        Information:</span></strong><span style="font-family:'SF Hello'; font-size:12pt"> </span><span
+                    style="font-family:'SF Hello'">As stated above, we will collect video and photo images of your face,
+                    hands and body and audio recordings of your voice, and generate a 3D model of your face and head. It
+                    is not our intent to use this information to identify you in any way, but it may be used to develop
+                    algorithms that could be used to identify individuals. Some laws may consider these images to be
+                    “biometric data” and sensitive personal information and require your explicit consent for
+                    collection, which you provide when you sign or otherwise indicate your acceptance of this Consent.
+                    Your Biometric Information will be deleted within 5 years after the date listed on this
+                    Consent.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">HOW WILL MY STUDY DATA BE KEPT CONFIDENTIAL? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <a id="_cmntref1"></a><a id="_cmntref2"><span style="font-family:'SF Hello'">Your Contact Information will
+                    be held securely by the Study Organizer, and access limited to those on the Study Team who need
+                    access to manage the Study. Your remaining Study Data will be separated from your Contact
+                    Information and assigned a code (we use the word “</span><strong><span
+                        style="font-family:'SF Hello'; ">Coded</span></strong><span style="font-family:'SF Hello'">” to
+                    describe these data that is, “</span><strong><span style="font-family:'SF Hello'; ">Coded Study
+                        Data</span></strong><span style="font-family:'SF Hello'">”). Your Coded Study Data will be
+                    maintained by the Study Team directly in a central study database with other subjects’ Coded Study
+                    Data.</span></a><a href="#_cmnt1" style="text-decoration:none"><span
+                    class="CommentReference">[AS1]</span></a><a href="#_cmnt2" style="text-decoration:none"><span
+                    class="CommentReference">[PC2]</span></a>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">All Study Data that identifies you will be protected and treated as
+                confidential. However, total confidentiality cannot be guaranteed. It is possible that members of the
+                Study Team could identify you from your Coded Study Data. For example, if the Study Data includes photo
+                images of you, there could be unauthorized access to the database used to store your Study Data.
+                Further, if you are in multiple studies, your Study Data may be combined across those studies, which
+                could increase the risk that someone could identify you. There may be other privacy risks that we cannot
+                anticipate now. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">For more information on how Study Data will be kept secure and
+                confidential, please contact the Study Lead listed above.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">HOW MAY MY STUDY DATA BE USED AND DISCLOSED?</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">Your Study Data (and where possible, only your Coded Study Data) may be
+                collected, used, stored, analyzed, maintained, disclosed, and otherwise processed, for the following
+                purposes: </span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To support and carry out the Study.</span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To verify that the Study is done properly.</span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To contact you about the Study, as necessary.</span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To analyze the Coded Study Data and publish results.</span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To design or improve future studies.</span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:5.68pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">To combine data and results from this Study (including Coded
+                    Study Data) with data and results from other related Sponsor studies whose purpose is similar to the
+                    purpose of this Study. </span>
+            </li>
+            <li class="ListParagraph"
+                style="text-indent:-18pt; font-family:serif; font-size:12pt; list-style-position:inside">
+                <span style="width:6.03pt; font:7pt 'Times New Roman'; display:inline-block">&#xa0;&#xa0;&#xa0;
+                </span><span style="font-family:'SF Hello'">For Apple’s development, design, approval (including
+                    regulatory approval), improvement, production, publication, and/or support of products,
+                    technologies, processes, and services, including algorithm development.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">Your Study Data, including your Coded Study Data, may be shared with,
+                collected, used, stored, analyzed, maintained, disclosed, and otherwise processed for the purposes
+                stated above by Sponsor personnel, external entities with whom Sponsor may choose to collaborate (under
+                appropriate contractual obligations), and designated third parties acting on behalf of Sponsor (also
+                with appropriate contractual obligations).</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">When required by law, Study Data in identifiable form may be provided
+                to third parties such as public, regulatory, or government authorities, including law
+                enforcement.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The results of this Study may be published or presented, but will not
+                include any information that would let others know who you are. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">Your Study Data may also be used for the following purposes: </span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="ListParagraph"
+                style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <strong><span style="font-family:'SF Hello'; ">For Study Recruitment.</span></strong><span
+                    style="font-family:'SF Hello'"> The Study Team may use or share your Coded Study Data with other
+                    Sponsor study teams to determine whether you might be eligible for future studies and if so to
+                    contact you for those studies.</span><span style="font-family:'SF Hello'">&#xa0;</span><span
+                    style="font-family:'SF Hello'">If you are contacted, you may choose not to participate.</span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="ListParagraph"
+                style="margin-left:28.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <strong><span style="font-family:'SF Hello'; ">For Unrelated Studies.</span></strong><span
+                    style="font-family:'SF Hello'"> The Study Team may share your Coded Study Data with Sponsor study
+                    teams conducting unrelated, future Apple studies if the Study Team:</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:64.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">Gets approval from an internal Sponsor committee that has
+                    representative(s) from Sponsor Legal and Sponsor ’s Human Studies Review Board; or </span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:64.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">Notifies you and gets your written consent. In this case, the Study
+                    Team would use your contact information to reach out. If you are contacted about providing your
+                    consent for uses of your data for unrelated studies, you may choose not to provide your consent for
+                    its use. </span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you are contacted regarding related or unrelated future studies, you
+                may choose not to participate. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHAT DATA RIGHTS DO I HAVE? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; color:#ff0000">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You may contact the Study Lead at any time to request deletion of your
+                personal information associated with your Study Data. In some circumstances, deletion of your personal
+                information may not be feasible (for instance, if your Coded Study Data has been de-linked from your
+                Contact Information). However, reasonable efforts will be made to delete identifiable data within a
+                reasonable amount of time of your request. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You may also withdraw from the Study at any time – see “Can I Stop
+                Being In This Study?” below.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">ARE THERE BENEFITS TO BEING IN THIS STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The goal of this Study is to obtain information related to the Study
+                purposes, so, you will not receive any direct benefit from this Study. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">ARE THERE ANY OPTIONS OTHER THAN BEING IN THIS STUDY?
+                </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The only other option is not to participate in this Study. </span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WILL I GET PAID FOR BEING IN THIS STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You will be compensated up to $125 for your participation in this
+                Study. Details of Study compensation will be provided by the Study Organizer.</span>
+        </p>
+        <p>
+            <em><span style="font-family:'SF Hello'; ">&#xa0;</span></em>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">CAN I STOP BEING IN THIS STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You may stop being in this Study at any time, for any reason, without
+                penalty by contacting a member of the Study Team, including the Study Lead. If you stop your
+                participation during a Study visit you will not be compensated for that visit. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you withdraw from the Study, Study data collected up to that point
+                may continue to be used and kept as described in this Consent. You may request that your Study Data be
+                deleted, as stated above in the “What Data Rights Do I Have” section.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">COULD MY PARTICIPATION BE STOPPED EARLY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You may be removed from this Study by the Study Team, the Study
+                Organizer,
+                the Study Team, or the Study Moderators for a number of reasons, such as:</span>
+        </p>
+        <ul style="margin:0pt; padding-left:0pt">
+            <li class="ListParagraph"
+                style="margin-left:19.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">You did not follow the confidentiality requirements described
+                    below;</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:19.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">You missed Study visits or did not follow instructions of the Study
+                    Team;</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:19.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">You no longer meet the criteria for participating in the
+                    Study;</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:19.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">The Study is stopped; and</span>
+            </li>
+            <li class="ListParagraph"
+                style="margin-left:19.52pt; padding-left:7.48pt; font-family:serif; font-size:12pt">
+                <span style="font-family:'SF Hello'">At the discretion of the Study Team. </span>
+            </li>
+        </ul>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you are removed from the Study, Study data collected up to that
+                point may continue to be used and kept as described in this Consent. You may request that your Study
+                Data be deleted, as stated above in the “What Data Rights Do I Have” section.</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">WHO CAN I TALK TO ABOUT THE STUDY? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If a Study-related problem occurs, or if you have any questions about
+                this Study at any time, please contact the </span><a id="_cmntref4"><span
+                    style="font-family:'SF Hello'">Study Lead Pei-Ta Chu, <a href="mailto:peita@apple.com"
+                        target="_blank">peita@apple.com</a></span>
+        </p>
+        <p>
+            <em><span style="font-family:'SF Hello'; ">&#xa0;</span></em>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you want to voice complaints or concerns about this Study, have
+                questions not addressed by the Study Team, or have questions about your general rights in this Study,
+                please contact the Chair of the Human Studies Review Board (HSRB) at <a href="mailto:peita@apple.com"
+                    target="_blank">peita@apple.com</a></span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">YOUR CONFIDENTIALITY OBLIGATIONS. </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you agree to participate in this Study, you must also agree to not
+                disclose any information from or about this Study with anyone outside of the Study Team, or Study
+                Moderators except as listed in this Consent, without first obtaining approval from the Study Lead. By
+                agreeing to participate in this Study, you acknowledge that any information about this Study, including
+                any Study details or the fact of your participation, are considered Apple confidential information, and
+                are covered by the obligations under your agreements with Apple.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">What is considered confidential? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">The fact that the Study Organizer and the Study Sponsor are conducting
+                this Study, the types and methods of data collection, and any other detail about the Study or how it is
+                conducted are confidential. Any information that you learn about this Study, including technical
+                information and any other information identified as non-public information is considered confidential
+                and proprietary information that belongs to the Study Organizer and the Study Sponsor and must not be
+                disclosed by you.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">Who needs to know? </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">Do not assume that anyone knows, or needs to know, information about
+                this Study. Do not talk to anyone about this Study with anyone outside of the Study Team except with: 1)
+                your medical providers if needed to determine whether it is safe for you to participate in this Study or
+                if you believe you may have been injured as a result of this Study; (2) family members or individuals
+                you live with as needed for remote elements of Study participation; and (3) family members if you have
+                concerns about participating in this Study. If you decide it’s necessary to discuss this Study with
+                anyone, you must first obtain agreement from them not to share any information about this Study,
+                including your participation in the Study.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">No disclosures, photos, videos or social media.
+                </span></strong>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">You will not be permitted to take any photographs or video of anything
+                related to this Study. You should never post anything about this Study on social media.</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'; color:#00b050">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you become aware of any unauthorized disclosure of confidential
+                information, including a disclosure by a family member or other individual, please report it immediately
+                to a member of the Study Team or to a Study Moderator. </span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">&#xa0;</span>
+        </p>
+        <p>
+            <span style="font-family:'SF Hello'">If you have any questions that are not addressed here, please discuss
+                with a member of the Study Team or a Study Moderator.</span>
+        </p>
+        <p>
+            <strong><span style="font-family:'SF Hello'; ">&#xa0;</span></strong>
+        </p>
+
+</body>
+
+</html>
