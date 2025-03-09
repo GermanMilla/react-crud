@@ -55,9 +55,9 @@ function Stats({ setFilterDataFromStats }) {
 
     function selectDemoBin(statuses, ethnicities, ageRange, gender) {
         if (userInfo['role'] !== 'admin') return;
-        setFilterDataFromStats({
+    
+        const filterData = {
             fromStats: true,
-            ethnicityGroups: [Constants.getKeyByValue(Constants['ethDbMap2'], Constants['ethDbMap'][ethnicities[0]])], //filter the group of the first item only
             multipleEthnicities: ['Yes', 'No'],
             genders: [gender],
             ageRanges: ageRange,
@@ -69,12 +69,23 @@ function Stats({ setFilterDataFromStats }) {
             facialHairs: Object.values(Constants['facialHair']),
             bmiRanges: Constants['bmiRanges'],
             furtherSessions: ['Yes', 'No'],
-        });
+        };
+    
+        // Conditionally add ethnicityGroups only if ethnicities.length is 14
+        if (ethnicities.length === 1) {
+            filterData.ethnicityGroups = [
+                Constants.getKeyByValue(Constants['ethDbMap2'], Constants['ethDbMap'][ethnicities[0]])
+            ];
+        } else {
+            filterData.ethnicityGroups =  Object.keys(Constants['ethDbMap2'])
+        }
+    
+        setFilterDataFromStats(filterData);
 
+    
         navigate('participants');
         dispatch(isStatsActive(false));
     }
-
     useEffect(() => {
 
         const pptRef = ref(realtimeDb, '/participants');
@@ -98,7 +109,6 @@ function Stats({ setFilterDataFromStats }) {
     }, []);
 
 
-
     useEffect(() => {
         let tempStats = getDefaultNumbers();
         Object.values(database).map(participant => {
@@ -107,7 +117,6 @@ function Stats({ setFilterDataFromStats }) {
             let ethnicities = participant['ethnicities'].split(';').map(ethnicity => Constants['ethnicities'][ethnicity]);
             let ethValue = 1 / ethnicities.length;
             let status = Constants['participantStatuses'][participant['status']] || "Blank";
-            console.log(ethnicities, participant)
             for (const element of ethnicities) {
                 let ethnicity = element.trim();
 
@@ -117,6 +126,7 @@ function Stats({ setFilterDataFromStats }) {
         });
 
         setStats(tempStats);
+
     }, [database, demos])
 
     useEffect(() => {

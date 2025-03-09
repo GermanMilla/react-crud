@@ -44,6 +44,7 @@ function Navbar({ setUserId }) {
     const admin = ['admin'].includes(userRole);
     const apple = ['apple'].includes(userRole);
 
+
     const navigate = useNavigate();
     const [appVersion, setAppVersion] = useState('');
     const dispatch = useDispatch();
@@ -67,7 +68,7 @@ function Navbar({ setUserId }) {
             <span className='projectName'>Project Title</span>
 
                 <span id="navbarTitle" className='notifier'></span>
-                {["german.milla01@telusinternational.com"].includes(auth.currentUser.email) && admin && <a href="/files" onClick={(e) => { e.preventDefault(); navigate("/files"); }}>Files</a>}
+                {["pymosv@gmail.com"].includes(auth.currentUser.email) && admin && <a href="/files" onClick={(e) => { e.preventDefault(); navigate("/files"); }}>Files</a>}
                 {admin && <a href="/participants" onClick={(e) => { e.preventDefault(); navigate("/participants"); }}>Participants</a>}
                 {admin && <a href="/scheduler" onClick={(e) => { e.preventDefault(); navigate("/scheduler"); }}>Scheduler</a>}
                 {(admin || apple) && <a href="/overview" onClick={(e) => { e.preventDefault(); navigate("/overview"); }}>Overview</a>}
